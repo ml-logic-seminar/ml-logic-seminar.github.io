@@ -1,10 +1,11 @@
-[Home](home.md) [People](people.md) [Upcoming Talks](upcoming.md) [Past Talks](past.md) [Sponsors](sponsors.md)
-
-# Preamble
 Machine learning (ML) and logical reasoning have been the two key pillars of AI since its inception, and yet, there has been little interaction between these two sub-fields over the years. At the same time, each of them has been very influential in their own way. ML has revolutionized many sub-fields of AI including image recognition, language translation, and game playing, to name just a few. Independently, the field of logical reasoning (e.g., SAT/SMT/CP solvers) has been equally impactful in many contexts in software engineering, security, AI, and mathematics. Despite this progress, there are new problems, as well as opportunities, on the horizon that seem solvable only via a combination of ML and logic. 
 
 One such problem that requires one to consider combinations of logic and ML is the question of reliability and security of ML models. For example, in recent years, many adversarial attacks against ML models have been developed, demonstrating their extraordinary brittleness. How can we leverage logic-based methods to analyze such ML systems with the aim of ensuring their reliability and security? What kind of logical language do we use to specify properties of ML models? How can we ensure that ML models are explainable and interpretable? All these questions require new research into suitable logic-based testing, analysis, and verification (TAV) methods tailored to ML models.
 
 In the reverse direction, ML methods have already been successfully applied to making solvers more efficient. In particular, solvers can be modeled as complex combinations of proof systems and ML optimization methods, wherein ML-based heuristics are used to optimally select and sequence proof rules. How can we further deepen this connection between solvers and ML? Can we develop tools that automatically construct proofs for higher math? Can we effectively combine ML's ability to learn complex correlations with the ability of symbolic methods to perform logical inference and analyze causal structure of concepts?
 
-To answer these and related questions we propose to organize a series of online seminars, with the aim of bringing together the many world-leading scientists who are conducting pioneering research at the intersection of logical reasoning and ML, enabling development of novel solutions to problems deemed impossible otherwise.
+# Our Goal
+To answer the above (and related) questions we propose to organize a seminar that consists of a series of online talks with the aim of bringing together the many world-leading scientists who are conducting pioneering research at the intersection of logical reasoning and ML, enabling development of novel solutions to problems deemed impossible otherwise.
+
+# Join Our Group
+In order to join our seminar and be notified for upcoming talks, please join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join).
