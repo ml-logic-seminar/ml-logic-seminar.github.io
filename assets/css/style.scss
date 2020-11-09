@@ -25,9 +25,8 @@
   box-sizing: border-box;
 };
 .column {
-  flex: 50%;
+  flex: none;
   padding: 5px;
-  justify-content: space-between;
 };
 .row {
   display: flex;
