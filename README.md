@@ -8,4 +8,4 @@ In the reverse direction, ML methods have already been successfully applied to m
 To answer the above (and related) questions we propose to organize a seminar that consists of a series of online talks with the aim of bringing together the many world-leading scientists who are conducting pioneering research at the intersection of logical reasoning and ML, enabling development of novel solutions to problems deemed impossible otherwise.
 
 # Join Our Group
-In order to join our seminar and be notified for upcoming talks, please join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join).
+In order to join our seminar and be notified for upcoming talks, please join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){:target="_blank"}.
