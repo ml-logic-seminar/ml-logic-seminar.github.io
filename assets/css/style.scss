@@ -10,11 +10,11 @@ ul.nav {
   background-color: #333;
 }
 
-li.nav {
+ul.nav li {
   float: left;
 }
 
-li.nav a {
+ul.nav li a {
   display: block;
   color: white;
   text-align: center;
@@ -23,6 +23,6 @@ li.nav a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li.nav a:hover {
+ul.nav li a:hover {
   background-color: #111;
 }
