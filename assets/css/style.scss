@@ -21,3 +21,13 @@
   background-color: #4CAF50;
   color: white;
 };
+* {
+  box-sizing: border-box;
+};
+.column {
+  flex: 50%;
+  padding: 5px;
+};
+.row {
+  display: flex;
+};
