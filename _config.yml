@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+gem "github-pages", group: :jekyll_plugins
 title: ML + Logic Online Seminar
-github:
-  is\_project\_page: false
+description: Website for the ML + Logic Online Seminar
+show_downloads: true
