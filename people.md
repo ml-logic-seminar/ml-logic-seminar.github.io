@@ -1,4 +1,4 @@
-# People
+<h1 style="text-align:center"> People </h1>
 
 ## Organizer
 - [Vijay Ganesh](https://ece.uwaterloo.ca/~vganesh/){:target="_blank"}, University of Waterloo
