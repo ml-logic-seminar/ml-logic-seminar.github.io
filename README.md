@@ -1,3 +1,5 @@
+[Home](home.md) [People](people.md) [Upcoming Talks](upcoming.md) [Past Talks](past.md) [Sponsors](sponsors.md)
+
 # Preamble
 Machine learning (ML) and logical reasoning have been the two key pillars of AI since its inception, and yet, there has been little interaction between these two sub-fields over the years. At the same time, each of them has been very influential in their own way. ML has revolutionized many sub-fields of AI including image recognition, language translation, and game playing, to name just a few. Independently, the field of logical reasoning (e.g., SAT/SMT/CP solvers) has been equally impactful in many contexts in software engineering, security, AI, and mathematics. Despite this progress, there are new problems, as well as opportunities, on the horizon that seem solvable only via a combination of ML and logic. 
 
