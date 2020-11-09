@@ -6,7 +6,7 @@
     </a>
   </div>
   <div class="column">
-    <a href="https://uwaterloo.ca/artificial-intelligence-institute/" target="_blank"><img border="0" alt="Waterloo Artificial Intelligence Institute" src="{{site.baseurl}}/assets/img/waterlooailogo.jpeg" width="400" height="400">
+    <a href="https://uwaterloo.ca/artificial-intelligence-institute/" target="_blank"><img border="0" alt="Waterloo Artificial Intelligence Institute" src="{{site.baseurl}}/assets/img/waterlooailogo.jpeg" width="200" height="200">
     </a>
   </div>
 </div>
