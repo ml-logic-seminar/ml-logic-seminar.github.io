@@ -34,6 +34,7 @@
 .row {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 };
 @media (max-width: 640px) {
   .topnav a:not(:first-child) {display: none;};
@@ -43,9 +44,6 @@
   };
   .headerImg {
     display: none;
-  };
-  img {
-    display: 50%;
   };
 };
 @media (max-width: 640px) {
