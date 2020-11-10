@@ -26,7 +26,7 @@
 };
 .column {
   flex: none;
-  padding: 0px;
+  padding: 2px;
 };
 .row {
   display: flex;
@@ -54,4 +54,7 @@
     display: block;
     text-align: left;
   }
+}
+#project_title {
+  font-size: 36px;
 }
