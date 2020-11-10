@@ -36,6 +36,11 @@
   justify-content: space-between;
   flex-wrap: wrap;
 };
+.rowHeader {
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+};
 @media (max-width: 640px) {
   .topnav a:not(:first-child) {display: none;};
   .topnav a.icon {
