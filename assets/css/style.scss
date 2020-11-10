@@ -21,6 +21,9 @@
   background-color: #4CAF50;
   color: white;
 };
+.topnav .icon {
+  display: none;
+};
 * {
   box-sizing: border-box;
 };
@@ -32,7 +35,7 @@
   display: flex;
   justify-content: space-between;
 };
-@media screen and (max-width: 480px) {
+@media (min-width: 480px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -42,7 +45,7 @@
     display: none;
   }
 }
-@media screen and (max-width: 480px) {
+@media (min-width: 480px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
