@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> Sponsors </h1>
+<h2 style="text-align:center"> Sponsors </h2>
 
 <div class="row">
   <div class="column">
