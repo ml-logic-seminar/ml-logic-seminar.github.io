@@ -1,8 +1,8 @@
-<h1 style="text-align:center"> People </h1>
+<h2 style="text-align:center"> People </h2>
 
-## Organizer
+### Organizer
 - [Vijay Ganesh](https://ece.uwaterloo.ca/~vganesh/){:target="_blank"}, University of Waterloo
 
-## Student Volunteers
+### Student Volunteers
 - [Vineel Nagisetty](https://github.com/vin-nag){:target="_blank"}, University of Waterloo
 - [Laura Graves](http://www.lauragraves.ca/){:target="_blank"}, University of Waterloo
