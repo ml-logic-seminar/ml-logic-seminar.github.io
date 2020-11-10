@@ -41,8 +41,11 @@
     float: right;
     display: block;
   };
-  header img {
+  .headerImg {
     display: none;
+  };
+  img {
+    display: 50%;
   };
 };
 @media (max-width: 640px) {
