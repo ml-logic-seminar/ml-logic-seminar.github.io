@@ -76,14 +76,15 @@
 };
 .talk {
   display: flex;
+  width: 100%;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
   align-items: center;
 };
 .talk .speakerInfo {
-  flex-grow: 1; 
+  width: 25%;
 };
 .talk .talkInfo {
-  flex-grow: 4;
+  width: 75%;
 };
