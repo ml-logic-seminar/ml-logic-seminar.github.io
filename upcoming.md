@@ -8,7 +8,7 @@ Note that you will have to join our [group](https://groups.google.com/forum/#!fo
     <div class="speakerInfo"> 
                 <img alt="Nicolas Papernot" src="{{site.baseurl}}/assets/img/nicolas.png">
       <br><br>
-      <a href"https://www.papernot.fr/" target="_blank">Nicolas Papernot</a> 
+      <a href="https://www.papernot.fr/" target="_blank">Nicolas Papernot</a> 
       <br><br>
       Google Brain, University of Toronto
     </div>
