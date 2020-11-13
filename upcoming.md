@@ -9,7 +9,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
                 <img alt="Nicolas Papernot" src="{{site.baseurl}}/assets/img/nicolas.png">
       <br>
       <a href="https://www.papernot.fr/" target="_blank">Nicolas Papernot</a> 
-      <br><
+      <br>
       Google Brain, University of Toronto
     </div>
     <div class="talkInfo"> 
