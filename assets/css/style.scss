@@ -68,3 +68,22 @@
   font-size: 24px;
   text-align: center;
 };
+.talks {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+};
+.talk {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+};
+.talk .speakerInfo {
+  flex-grow: 1; 
+};
+.talk .talkInfo {
+  flex-grow: 4;
+};
