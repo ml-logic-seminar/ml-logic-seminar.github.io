@@ -6,7 +6,7 @@ Note that you will have to join our [group](https://groups.google.com/forum/#!fo
 <div class="talks">
   <div class="talk">
     <div class="speakerInfo"> 
-                <img alt="Nicolas Papernot" style="min-width: 50%; height: auto;" src="{{site.baseurl}}/assets/img/nicolas.png">
+                <img alt="Nicolas Papernot" src="{{site.baseurl}}/assets/img/nicolas.png">
       <br>
       Nicolas Papernot
       <br>
