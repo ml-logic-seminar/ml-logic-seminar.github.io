@@ -1,6 +1,6 @@
 <h2 style="text-align:center">Combinations of ML and Logic</h2>
 This online seminar series is about:
-* Testing, Analysis, Verification, and Security (TAVS) of ML systems
+* Testing, Analysis, Verification, Security and Privacy (TAVSP) of ML systems
 * Combinations of ML and Logic, e.g., NeuroSymbolic AI
 * Use of ML in logic solvers
 
