@@ -4,7 +4,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
 ){:target="_blank"} in order to receive emails with the link for the talks.
 
 <div class="talks">
-  <div class="talk">
+  <div class="talk" id="nicolas">
     <div class="speakerInfo"> 
                 <img alt="Nicolas Papernot" src="{{site.baseurl}}/assets/img/nicolas.png">
       <br>
