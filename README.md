@@ -10,7 +10,7 @@ In order to join our seminar and be notified about upcoming talks, we invite you
 <h2 style="text-align:center">Upcoming Talks</h2>
 <table id="upcoming">
   <tr>
-    <th>Date and Time</th>
+    <th>Date</th>
     <th>Author Name</th>
     <th>Affiliation</th>
     <th>Talk Title</th>
