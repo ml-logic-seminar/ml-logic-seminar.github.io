@@ -19,7 +19,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
      <br><br>
       <strong> Bio: </strong> Nicolas Papernot is an assistant professor in the Department of Electrical and Computer Engineering at the University of Toronto. Further, he is a faculty member at the Vector Institute, where he holds a Canada CIFAR AI Chair, and a faculty affiliate at the Schwartz Reisman Institute. He earned his Ph.D. in Computer Science and Engineering at the Pennsylvania State University, working with Prof. Patrick McDaniel and supported by a Google PhD Fellowship in Security and Privacy. Nicolas received a best paper award at ICLR 2017. He is also the co-author of CleverHans, an open-source library widely adopted in the technical community to benchmark machine learning in adversarial settings, and tf.Privacy, an open-source library for training differentially private models with TensorFlow. He serves on the program committees of several conferences including ACM CCS, IEEE S&P, and USENIX Security. In 2016, he received his M.S. in Computer Science and Engineering from the Pennsylvania State University and his M.S. in Engineering Sciences from the Ecole Centrale de Lyon.
       <br><br>
-      <strong> [Meeting Link](https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mdfea3aea83ff27b0356dc62a164a3ea7){:target="_blank"} </strong> 
+      <strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mdfea3aea83ff27b0356dc62a164a3ea7" target="_blank">Meeting Link</a></strong> 
     </div>
   </div>
 </div>
