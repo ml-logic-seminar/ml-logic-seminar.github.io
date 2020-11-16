@@ -21,6 +21,6 @@ In order to join our seminar and be notified about upcoming talks, we invite you
     <td>Nicolas Papernot</td>
     <td>Vector Institute, University of Toronto</td>
     <td>A Marauder's Map of Security and Privacy in Machine Learning</td>
-    <td>[Link](https://ml-logic-seminar.github.io/upcoming.html#nicolas){:target="_blank"}</td>
+    <td><a href="https://ml-logic-seminar.github.io/upcoming.html#nicolas" target="_blank">Link</a></td>
   </tr>
 </table>
