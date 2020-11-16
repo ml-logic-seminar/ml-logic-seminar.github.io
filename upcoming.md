@@ -10,7 +10,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       <br>
       <a href="https://www.papernot.fr/" target="_blank">Nicolas Papernot</a> 
       <br>
-      Google Brain, University of Toronto
+      Vector Institute, University of Toronto
     </div>
     <div class="talkInfo"> 
               <strong> Date: </strong> January 11th, 2021 @ 1PM.
