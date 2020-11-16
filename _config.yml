@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 gem "github-pages", group: :jekyll_plugins
-title: ML + Logic Online Seminar
-description: Website for the ML + Logic Online Seminar
+title: ML + Logic Online Colloquium
+description: Website for the ML + Logic Online Colloquium
 show_downloads: true
