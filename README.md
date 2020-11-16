@@ -1,5 +1,5 @@
 <h2 style="text-align:center">Combinations of ML and Logic</h2>
-This online colloquia series is about the following topics and is open to anyone who is interested:
+This online colloquia is about the following topics and is open to anyone who is interested:
 * Testing, Analysis, Verification, Security and Privacy (TAVSP) of ML systems
 * Combinations of ML and Logic, e.g., NeuroSymbolic AI
 * Use of ML in logic solvers
