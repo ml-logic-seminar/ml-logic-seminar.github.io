@@ -18,6 +18,20 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>More Info</th>
     </tr>
     <tr>
+      <td>November 30th, 2020 @ 2PM EST</td>
+      <td>Chaowei Xiao</td>
+      <td>U. of Michigan</td>
+      <td>TBA</td>
+      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#nicolas" target="_blank">Link</a></td>
+    </tr>    
+    <tr>
+      <td>December 14th, 2020 @ 4PM EST</td>
+      <td>Aws Albarghouthi</td>
+      <td>U. of Wisconsin</td>
+      <td>TBA</td>
+      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#nicolas" target="_blank">Link</a></td>
+    </tr>    
+    <tr>
       <td>January 11th, 2021 @ 1PM EST</td>
       <td>Nicolas Papernot</td>
       <td>U. of Toronto, Vector Institute</td>
