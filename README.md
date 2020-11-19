@@ -21,7 +21,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td>November 30th, 2020 @ 2PM EST</td>
       <td>Chaowei Xiao</td>
       <td>U. of Michigan</td>
-      <td>TBA</td>
+      <td>Deep Learning in Adversarial Environments</td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#chaowei" target="_blank">Link</a></td>
     </tr>    
     <tr>
