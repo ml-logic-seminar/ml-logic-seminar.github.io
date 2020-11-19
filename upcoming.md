@@ -44,14 +44,14 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
     </div>
   </div>
 
-    
+  <!-- Nicolas -->
   <div class="talk" id="nicolas">
     <div class="speakerInfo"> 
                 <img alt="Nicolas Papernot" src="{{site.baseurl}}/assets/img/nicolas.png">
       <br>
       <a href="https://www.papernot.fr/" target="_blank">Nicolas Papernot</a> 
       <br>
-      Vector Institute, University of Toronto
+      University of Toronto, Vector Institute
     </div>
     <div class="talkInfo"> 
               <strong> Date: </strong> January 11th, 2021 @ 1PM.
