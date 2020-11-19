@@ -7,6 +7,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
   
   <div class="talk" id="chaowei">
         <div class="speakerInfo"> 
+            <img alt="Chaowei Xiao" src="{{site.baseurl}}/assets/img/chaowei.jpg">
       <br>
       <a href="http://www-personal.umich.edu/~xiaocw/" target="_blank">Chaowei Xiao</a> 
       <br>
