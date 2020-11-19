@@ -34,7 +34,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
     <tr>
       <td>December 21st, 2020 @ 4PM EST</td>
       <td>Aditya Thakur and Matthew Sotoudeh</td>
-      <td>U. of California, Davis</td>
+      <td>UC Davis</td>
       <td>TBA</td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#aditya" target="_blank">Link</a></td>
     </tr>
