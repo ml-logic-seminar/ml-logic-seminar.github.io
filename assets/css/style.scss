@@ -76,9 +76,10 @@
 };
 .talk {
   display: flex;
-  box-sizing: border-box;
   width: 100%;
-  border 1px solid #000;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
