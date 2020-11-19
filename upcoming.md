@@ -4,7 +4,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
 ){:target="_blank"} in order to receive emails with the link for the talks.
 
 <div class="talks">
-  
+  <!-- Chaowei -->
   <div class="talk" id="chaowei">
         <div class="speakerInfo"> 
             <img alt="Chaowei Xiao" src="{{site.baseurl}}/assets/img/chaowei.jpg">
@@ -23,6 +23,27 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       <strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mdfea3aea83ff27b0356dc62a164a3ea7" target="_blank">Meeting Link</a></strong> 
     </div>
   </div>
+  
+  <!-- Aws -->
+  <div class="talk" id="aws">
+        <div class="speakerInfo"> 
+            <img alt="Aws Albarghouthi" src="{{site.baseurl}}/assets/img/aws.jpg">
+      <br>
+      <a href="http://pages.cs.wisc.edu/~aws/" target="_blank">Aws Albarghouthi</a> 
+      <br>
+      University of Wisconsin-Madison
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> December 14th, 2020 @ 4PM.
+      <br><br>
+<strong> Talk Title: </strong> TBA
+     <br><br>
+      <strong> Bio: </strong> Aws Albarghouthi studies the art and science of program verification and synthesis. He is a member of the madPL group, a world-class group of faculty and students at the forefront of programming languages research. He joined UW–Madison in 2015, after receiving his PhD at the University of Toronto, where he was advised by Marsha Chechik.
+      <br><br>
+      <strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mdfea3aea83ff27b0356dc62a164a3ea7" target="_blank">Meeting Link</a></strong> 
+    </div>
+  </div>
+
     
   <div class="talk" id="nicolas">
     <div class="speakerInfo"> 
