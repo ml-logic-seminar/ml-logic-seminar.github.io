@@ -32,11 +32,19 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#aws">Link</a></td>
     </tr>    
     <tr>
-      <td>December 21st, 2020 @ 4PM EST</td>
+      <td>December 21st, 2021 @ 4PM EST</td>
       <td>Aditya Thakur and Matthew Sotoudeh</td>
       <td>UC Davis</td>
       <td>TBA</td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#aditya">Link</a></td>
     </tr>
+    <tr>
+      <td>January 11th, 2021 @ 1PM EST</td>
+      <td>Nicolas Papernot</td>
+      <td>U. of Toronto, Vector Institute</td>
+      <td> A Marauder's Map of Security and Privacy in Machine Learning</td>
+      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#nicolas">Link</a></td>
+    </tr>
+    
   </table>
 </div>
