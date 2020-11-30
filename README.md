@@ -38,6 +38,12 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td> A Marauder's Map of Security and Privacy in Machine Learning</td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#nicolas">Link</a></td>
     </tr>
-    
+    <tr>
+      <td>Monday, January 18th, 2021 @ 4PM EST</td>
+      <td><strong><a href="http://www.gautamkamath.com/" target="_blank">Gautam Kamath</a></strong></td>
+      <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
+      <td>Robustness in unsupervised and supervised machine learning</td>
+      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#gautam">Link</a></td>
+    </tr>    
   </table>
 </div>
