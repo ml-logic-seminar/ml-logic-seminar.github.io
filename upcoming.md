@@ -71,4 +71,30 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mdfea3aea83ff27b0356dc62a164a3ea7" target="_blank">Meeting Link</a>
     </div>
   </div>
+  
+    <!-- Gautam -->
+  <div class="talk" id="gautam">
+    <div class="speakerInfo"> 
+                <img alt="Gautam Kamath" src="{{site.baseurl}}/assets/img/gautam.jpg">
+      <br>
+      <a href="http://www.gautamkamath.com/" target="_blank">Gautam Kamath</a> 
+      <br>
+      University of Waterloo
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> Monday, January 18th, 2021 @ 4PM.
+      <br>
+<strong> Talk Title: </strong> Robustness in unsupervised and supervised machine learning
+     <br>
+      <strong> Abstract: </strong> Recently, the need for robust machine learning algorithms has become apparent. Whether due to errors in data collection, model
+misspecification, or adversarial attacks, contaminated datasets arise in many areas. This is an issue, as existing methods appear to be quite
+brittle to small amounts of errors. Even more worryingly, these models are being deployed in many security-critical settings, such as
+self-driving cars, where reliability is an absolute must. In this talk, I will describe a line of work in which we provide provable guarantees for robust machine learning in several fundamental settings. I’ll begin by discussing the problem of robust estimation of mean and covariance of a Gaussian distribution, and how to relax this to distributions with weaker assumptions on the moments. I will then describe how these methods can be used to “robustify” supervised learning algorithms by applying robust mean estimation algorithms to the gradients of the dataset. While theoretically sound, the algorithms are also realizable and efficient, and I will present experimental results on both synthetic and real-world data. Based on joint works with Ilias Diakonikolas, Daniel M. Kane, Jerry Li,
+Ankur Moitra, Jacob Steinhardt, and Alistair Stewart. 
+      <strong> Bio: </strong> Gautam Kamath is an Assistant Professor at the David R. Cheriton School of Computer Science at the University of Waterloo. He has a B.S. in Computer Science and Electrical and Computer Engineering from Cornell University, and an M.S. and Ph.D. in Computer Science from the Massachusetts Institute of Technology. His research interests lie in methods for statistics and machine learning, with a focus on challenges which arise in modern data
+analysis, including data privacy and robustness. He was a Microsoft Research Fellow, as a part of the Simons-Berkeley Research Fellowship Program at the Simons Institute for the Theory of Computing. He is recipient of an NSERC Discovery Accelerator Supplement, and was awarded the Best Student Presentation Award at the ACM Symposium on Theory of Computing in 2012.
+      <br>
+      <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m47a8b947775cdec84fd27d1a56d8bcb3" target="_blank">Meeting Link</a>
+    </div>
+  </div>
 </div>
