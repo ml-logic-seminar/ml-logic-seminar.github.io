@@ -18,30 +18,23 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>More Info</th>
     </tr>
     <tr>
-      <td>Monday, November 30th, 2020 @ 2PM EST</td>
-      <td><strong>Chaowei Xiao</strong></td>
-      <td>U. of Michigan</td>
-      <td>Deep Learning in Adversarial Environments</td>
-      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#chaowei">Link</a></td>
-    </tr>    
-    <tr>
       <td>Monday, December 14th, 2020 @ 4PM EST</td>
-      <td><strong>Aws Albarghouthi</strong></td>
-      <td>U. of Wisconsin</td>
+      <td><strong><a href="http://pages.cs.wisc.edu/~aws/" target="_blank">Aws Albarghouthi</a></strong></td>
+      <td><a href="https://www.wisc.edu/" target="_blank">U. of Wisconsin</a></td>
       <td>TBA</td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#aws">Link</a></td>
     </tr>    
     <tr>
       <td>Monday, December 21st, 2021 @ 4PM EST</td>
-      <td><strong>Aditya Thakur</strong> and <strong>Matthew Sotoudeh</strong></td>
-      <td>UC Davis</td>
+      <td><strong><a href="http://thakur.cs.ucdavis.edu/" target="_blank">Aditya Thakur</a></strong> and <strong><a href="https://masot.net/" target="_blank">Matthew Sotoudeh</a></strong></td>
+      <td><a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a></td>
       <td>TBA</td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#aditya">Link</a></td>
     </tr>
     <tr>
       <td>Monday, January 11th, 2021 @ 1PM EST</td>
-      <td><strong>Nicolas Papernot</strong></td>
-      <td>U. of Toronto, Vector Institute</td>
+      <td><strong><a href="https://www.papernot.fr/" target="_blank">Nicolas Papernot</a></strong></td>
+      <td><a href="https://www.utoronto.ca/" target="_blank">U. of Toronto</a>, <a href="https://vectorinstitute.ai/" target="_blank">Vector Institute</a></td>
       <td> A Marauder's Map of Security and Privacy in Machine Learning</td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#nicolas">Link</a></td>
     </tr>
