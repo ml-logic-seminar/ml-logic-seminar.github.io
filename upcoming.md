@@ -20,7 +20,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
      <br>
       <strong> Bio: </strong> Aws Albarghouthi studies the art and science of program verification and synthesis. He is a member of the madPL group, a world-class group of faculty and students at the forefront of programming languages research. He joined UW–Madison in 2015, after receiving his PhD at the University of Toronto, where he was advised by Marsha Chechik.
       <br>
-      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m9457308fe0c342d8bbbdc1062a2ff5cc" target="_blank">Webex</a>
+      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m9457308fe0c342d8bbbdc1062a2ff5cc" target="_blank">WebEx</a>
     </div>
   </div>
 
@@ -48,7 +48,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       <br>
       <strong>Matthew Ali Sotoudeh's Bio: </strong> Matthew Sotoudeh is currently pursuing a Bachelor of Science in Mathematics at UC Davis. He is broadly interested in understanding and explaining computational processes. His recent research has focused on exploring how ideas from the fiels of programming languages and automated reasoning can help design safer and more efficient deep learning systems. 
       <br>      
-      <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mc8a3f4b8656c02643da37f3460c03a12" target="_blank">Webex</a>
+      <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mc8a3f4b8656c02643da37f3460c03a12" target="_blank">WebEx</a>
     </div>
   </div>
 
@@ -68,7 +68,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
      <br>
       <strong> Bio: </strong> Nicolas Papernot is an assistant professor in the Department of Electrical and Computer Engineering at the University of Toronto. Further, he is a faculty member at the Vector Institute, where he holds a Canada CIFAR AI Chair, and a faculty affiliate at the Schwartz Reisman Institute. He earned his Ph.D. in Computer Science and Engineering at the Pennsylvania State University, working with Prof. Patrick McDaniel and supported by a Google PhD Fellowship in Security and Privacy. Nicolas received a best paper award at ICLR 2017. He is also the co-author of CleverHans, an open-source library widely adopted in the technical community to benchmark machine learning in adversarial settings, and tf.Privacy, an open-source library for training differentially private models with TensorFlow. He serves on the program committees of several conferences including ACM CCS, IEEE S&P, and USENIX Security. In 2016, he received his M.S. in Computer Science and Engineering from the Pennsylvania State University and his M.S. in Engineering Sciences from the Ecole Centrale de Lyon.
       <br>
-      <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mdfea3aea83ff27b0356dc62a164a3ea7" target="_blank">Meeting Link</a>
+      <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mdfea3aea83ff27b0356dc62a164a3ea7" target="_blank">WebEx</a>
     </div>
   </div>
   
@@ -94,7 +94,7 @@ Ankur Moitra, Jacob Steinhardt, and Alistair Stewart.
       <strong> Bio: </strong> Gautam Kamath is an Assistant Professor at the David R. Cheriton School of Computer Science at the University of Waterloo. He has a B.S. in Computer Science and Electrical and Computer Engineering from Cornell University, and an M.S. and Ph.D. in Computer Science from the Massachusetts Institute of Technology. His research interests lie in methods for statistics and machine learning, with a focus on challenges which arise in modern data
 analysis, including data privacy and robustness. He was a Microsoft Research Fellow, as a part of the Simons-Berkeley Research Fellowship Program at the Simons Institute for the Theory of Computing. He is recipient of an NSERC Discovery Accelerator Supplement, and was awarded the Best Student Presentation Award at the ACM Symposium on Theory of Computing in 2012.
       <br>
-      <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m47a8b947775cdec84fd27d1a56d8bcb3" target="_blank">Meeting Link</a>
+      <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m47a8b947775cdec84fd27d1a56d8bcb3" target="_blank">WebEx</a>
     </div>
   </div>
 </div>
