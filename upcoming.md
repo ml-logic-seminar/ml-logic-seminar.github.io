@@ -14,7 +14,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       University of Wisconsin-Madison
     </div>
     <div class="talkInfo"> 
-              <strong> Date: </strong> December 14th, 2020 @ 4PM.
+              <strong> Date: </strong> Monday, December 14th, 2020 @ 4PM.
       <br>
 <strong> Talk Title: </strong> TBA
      <br>
@@ -40,7 +40,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       University of California, Davis
     </div>
     <div class="talkInfo"> 
-              <strong> Date: </strong> December 21st, 2020 @ 4PM.
+              <strong> Date: </strong> Monday, December 21st, 2020 @ 4PM.
       <br>
 <strong> Talk Title: </strong> TBA
      <br>
@@ -62,7 +62,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       University of Toronto, Vector Institute
     </div>
     <div class="talkInfo"> 
-              <strong> Date: </strong> January 11th, 2021 @ 1PM.
+              <strong> Date: </strong> Monday, January 11th, 2021 @ 1PM.
       <br>
 <strong> Talk Title: </strong> A Marauder's Map of Security and Privacy in Machine Learning 
      <br>
