@@ -11,7 +11,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       <br>
       <a href="http://pages.cs.wisc.edu/~aws/" target="_blank">Aws Albarghouthi</a> 
       <br>
-      University of Wisconsin-Madison
+      <a href="https://www.wisc.edu/" target="_blank">University of Wisconsin-Madison</a>
     </div>
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, December 14th, 2020 @ 4PM.
@@ -31,13 +31,13 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       <br>
       <a href="http://thakur.cs.ucdavis.edu/" target="_blank">Aditya Thakur</a> 
       <br>
-      University of California, Davis
+      <a href="https://www.ucdavis.edu/" target="_blank">University of California, Davis</a>
       <br>
       <img alt="Matthew Ali Sotoudeh" src="{{site.baseurl}}/assets/img/sotoudeh.jpg">
       <br>
       <a href="https://masot.net/" target="_blank">Matthew Sotoudeh</a> 
       <br>
-      University of California, Davis
+      <a href="https://www.ucdavis.edu/" target="_blank">University of California, Davis</a>
     </div>
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, December 21st, 2020 @ 4PM.
@@ -59,7 +59,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       <br>
       <a href="https://www.papernot.fr/" target="_blank">Nicolas Papernot</a> 
       <br>
-      University of Toronto, Vector Institute
+      <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>, <a href="https://vectorinstitute.ai/" target="_blank">Vector Institute</a>
     </div>
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, January 11th, 2021 @ 1PM.
@@ -72,14 +72,14 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
     </div>
   </div>
   
-    <!-- Gautam -->
+  <!-- Gautam -->
   <div class="talk" id="gautam">
     <div class="speakerInfo"> 
                 <img alt="Gautam Kamath" src="{{site.baseurl}}/assets/img/gautam.jpg">
       <br>
       <a href="http://www.gautamkamath.com/" target="_blank">Gautam Kamath</a> 
       <br>
-      University of Waterloo
+      <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>
     </div>
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, January 18th, 2021 @ 4PM.
