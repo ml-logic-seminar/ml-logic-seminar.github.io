@@ -28,7 +28,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td>Monday, December 21st, 2021 @ 4PM EST</td>
       <td><strong><a href="http://thakur.cs.ucdavis.edu/" target="_blank">Aditya Thakur</a></strong> and <strong><a href="https://masot.net/" target="_blank">Matthew Sotoudeh</a></strong></td>
       <td><a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a></td>
-      <td>TBA</td>
+      <td>Understanding and Repairing Deep Neural Networks</td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#aditya">Link</a></td>
     </tr>
     <tr>
