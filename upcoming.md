@@ -46,11 +46,15 @@ This talk is based on joint work with Yuhao Zhang, Samuel Drews, and Loris D’A
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, December 21st, 2020 @ 4PM.
       <br>
-<strong> Talk Title: </strong> TBA
+<strong> Talk Title: </strong> Understanding and Repairing Deep Neural Networks
      <br>
-      <strong>Aditya Thakur's Bio: </strong> Aditya Thakur's research and teaching interests are in programming languages, automated reasoning, and software engineering. The goal of his research is to develop tools and techniques to improve the reliability and performance of software systems. His current research aims to develop explainable and scalable program analysis—tools that he would have wanted while he was working in the industry.
+      <strong> Abstract: </strong> Deep neural networks (DNNs) have been successfully applied to a wide variety of problems, including image recognition, natural-language processing, medical diagnosis, and self-driving cars. As the accuracy of DNNs has increased so has their complexity and size, making the outputs of such models difficult to meaningfully interpret. The talk describes a new symbolic representation for DNNs that allowed us to exactly compute the integrated gradients, a state-of-the-art network attribution method that until now has only been approximated.
+
+Moreover, DNNs are far from infallible, and mistakes made by DNNs have led to loss of life, motivating research on verification and testing to find mistakes in DNNs. In contrast, the talk describes techniques and tools for repairing a trained DNN once a mistake has been discovered. We present Provable Repair of DNNs, which computes a minimal change to the parameters of a trained DNN to correct its behavior according to a given specification, and ensures that the patch is provably effective, generalizing, local, and efficient.
       <br>
-      <strong>Matthew Ali Sotoudeh's Bio: </strong> Matthew Sotoudeh is currently pursuing a Bachelor of Science in Mathematics at UC Davis. He is broadly interested in understanding and explaining computational processes. His recent research has focused on exploring how ideas from the fiels of programming languages and automated reasoning can help design safer and more efficient deep learning systems. 
+      <strong>Aditya Thakur's Bio: </strong> Aditya Thakur is an assistant professor of Computer Science at the University of California, Davis. He received his Ph.D. from the University of Wisconsin, Madison, and has held positions at Google, Microsoft Research, and the University of California, Berkeley. His research interests include programming languages, machine learning, formal methods, and software engineering. He was the recipient of the Facebook Probability and Programming Research Award 2019 and 2020, and Facebook Testing and Verification Research Award 2018. 
+      <br>
+      <strong>Matthew Ali Sotoudeh's Bio: </strong> Matthew Sotoudeh is a senior undergraduate student at the University of California, Davis, majoring in Computer Science and Mathematics, where he is a Regents Scholar.
       <br>      
       <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mc8a3f4b8656c02643da37f3460c03a12" target="_blank">WebEx</a>
     </div>
