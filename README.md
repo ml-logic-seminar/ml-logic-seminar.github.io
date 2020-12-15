@@ -18,13 +18,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>More Info</th>
     </tr>
     <tr>
-      <td>Monday, December 14th, 2020 @ 4PM EST</td>
-      <td><strong><a href="http://pages.cs.wisc.edu/~aws/" target="_blank">Aws Albarghouthi</a></strong></td>
-      <td><a href="https://www.wisc.edu/" target="_blank">U. of Wisconsin</a></td>
-      <td>A Tale of Two Applications of Verification in Machine Learning</td>
-      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#aws">Link</a></td>
-    </tr>    
-    <tr>
       <td>Monday, December 21st, 2021 @ 4PM EST</td>
       <td><strong><a href="http://thakur.cs.ucdavis.edu/" target="_blank">Aditya Thakur</a></strong> and <strong><a href="https://masot.net/" target="_blank">Matthew Sotoudeh</a></strong></td>
       <td><a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a></td>
