@@ -91,9 +91,25 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       <br>
       <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>
     </div>
-    <div class="talkInfo"> 
-    <strong> Date: </strong> TBA.
-    <strong> Talk Titles: </strong> TBA
+    <div class="talkInfo">
+      <table>
+        <tr>
+          <th> Date </th>
+          <th> Talk Titles </th>
+        </tr>
+        <tr>
+          <td> Monday, January 25th @4PM EST </td>
+          <td> Fairness in ML </td>
+        </tr>
+        <tr>
+          <td> Monday, February 1st @4PM EST </td>
+          <td> Clustering </td>
+        </tr>
+        <tr>
+          <td> Monday, February 8th @4PM EST </td>
+          <td> Independence from ZFC result </td>
+        </tr>
+      </table>
     <br>
     <strong> Bio: </strong> Shai Ben-David earned his Ph.D. in mathematics from the Hebrew University in Jerusalem and has been a professor of computer science at the Technion (Israel Institute of Technology).  He held visiting faculty positions at the Australian National University, Cornell University, ETH Zurich, TTI Chicago and the Simons Institute at Berkeley. Since 2004 Shai has been a professor at the David Cheriton School of Computer Science at the University of Waterloo. Since 2019 he is also a faculty member at the Toronto Vector institute. In recent years his research focus turned to machine learning theory. Among his notable contributions in that field are pioneering steps in the analysis of domain adaptation, learnability of real-valued functions, and change detection in streaming data. Shai has also made fundamental contributions to the theory of clustering and published seminal works on average-case complexity, competitive analysis of algorithms and alternatives to worst-case complexity.
 <br>
