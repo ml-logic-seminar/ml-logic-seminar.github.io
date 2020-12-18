@@ -98,15 +98,15 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
           <th> Talk Titles </th>
         </tr>
         <tr>
-          <td> Monday, January 25th @4PM EST </td>
+          <td> January 25th @4PM EST </td>
           <td> Fairness in ML </td>
         </tr>
         <tr>
-          <td> Monday, February 1st @4PM EST </td>
+          <td> February 1st @4PM EST </td>
           <td> Clustering </td>
         </tr>
         <tr>
-          <td> Monday, February 8th @4PM EST </td>
+          <td> February 8th @4PM EST </td>
           <td> Independence from ZFC result </td>
         </tr>
       </table>
