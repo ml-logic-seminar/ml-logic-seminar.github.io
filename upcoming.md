@@ -4,38 +4,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
 ){:target="_blank"} in order to receive emails with the link for the talks.
 
 <div class="talks">  
-  <!-- Aditya and Matthew -->
-  <div class="talk" id="aditya">
-    <div class="speakerInfo"> 
-      <img alt="Aditya Thakur" src="{{site.baseurl}}/assets/img/aditya.jpg">
-      <br>
-      <a href="http://thakur.cs.ucdavis.edu/" target="_blank">Aditya Thakur</a> 
-      <br>
-      <a href="https://www.ucdavis.edu/" target="_blank">University of California, Davis</a>
-      <br>
-      <img alt="Matthew Ali Sotoudeh" src="{{site.baseurl}}/assets/img/sotoudeh.jpg">
-      <br>
-      <a href="https://masot.net/" target="_blank">Matthew Sotoudeh</a> 
-      <br>
-      <a href="https://www.ucdavis.edu/" target="_blank">University of California, Davis</a>
-    </div>
-    <div class="talkInfo"> 
-              <strong> Date: </strong> Monday, December 21st, 2020 @ 4PM.
-      <br>
-<strong> Talk Title: </strong> Understanding and Repairing Deep Neural Networks
-     <br>
-      <strong> Abstract: </strong> Deep neural networks (DNNs) have been successfully applied to a wide variety of problems, including image recognition, natural-language processing, medical diagnosis, and self-driving cars. As the accuracy of DNNs has increased so has their complexity and size, making the outputs of such models difficult to meaningfully interpret. The talk describes a new symbolic representation for DNNs that allowed us to exactly compute the integrated gradients, a state-of-the-art network attribution method that until now has only been approximated.
-
-Moreover, DNNs are far from infallible, and mistakes made by DNNs have led to loss of life, motivating research on verification and testing to find mistakes in DNNs. In contrast, the talk describes techniques and tools for repairing a trained DNN once a mistake has been discovered. We present Provable Repair of DNNs, which computes a minimal change to the parameters of a trained DNN to correct its behavior according to a given specification, and ensures that the patch is provably effective, generalizing, local, and efficient.
-      <br>
-      <strong>Aditya Thakur's Bio: </strong> Aditya Thakur is an assistant professor of Computer Science at the University of California, Davis. He received his Ph.D. from the University of Wisconsin, Madison, and has held positions at Google, Microsoft Research, and the University of California, Berkeley. His research interests include programming languages, machine learning, formal methods, and software engineering. He was the recipient of the Facebook Probability and Programming Research Award 2019 and 2020, and Facebook Testing and Verification Research Award 2018. 
-      <br>
-      <strong>Matthew Ali Sotoudeh's Bio: </strong> Matthew Sotoudeh is a senior undergraduate student at the University of California, Davis, majoring in Computer Science and Mathematics, where he is a Regents Scholar.
-      <br>      
-      <strong> Meeting Link: </strong><a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mc8a3f4b8656c02643da37f3460c03a12" target="_blank">WebEx</a>
-    </div>
-  </div>
-
   <!-- Nicolas -->
   <div class="talk" id="nicolas">
     <div class="speakerInfo"> 
