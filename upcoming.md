@@ -94,5 +94,45 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       <strong> Meeting Link: </strong> TBA
     </div>
   </div>
+  
+   <!-- Gagandeep -->
+  <div class="talk" id="gagandeep">
+    <div class="speakerInfo"> 
+                <img alt="Gagandeep Singh" src="{{site.baseurl}}/assets/img/gagandeep.jpg">
+      <br>
+      <a href="https://www.sri.inf.ethz.ch/people/gagandeep" target="_blank">Gagandeep Singh</a> 
+      <br>
+      <a href="https://ethz.ch/index_EN" target="_blank">ETH Zurich</a>
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> Monday, February 15th, 2021 @ 4PM EST.
+      <br>
+<strong> Talk Title: </strong> TBA
+     <br>
+      <strong> Bio: </strong>  Gagandeep is a PhD student in the Secure, Reliable, and Intelligent Systems Lab supervised by Prof. Martin Vechev and Prof. Markus Püschel since Nov 2014. He was born in Raebareli, India. He is broadly interested in balancing the precision/performance tradeoff of numerical problems. Examples include numerical domains used in abstract interpretation and robustness analysis of neural networks. He will be starting as an assistant professor of CS at UIUC from August 2021.
+      <br>
+      <strong> Meeting Link: </strong> TBA
+    </div>
+  </div>
+  
+     <!-- Mikolas -->
+  <div class="talk" id="mikolas">
+    <div class="speakerInfo"> 
+                <img alt="Mikoláš Janota" src="{{site.baseurl}}/assets/img/mikolas.png">
+      <br>
+      <a href=http://sat.inesc-id.pt/~mikolas/" target="_blank">Mikoláš Janota</a> 
+      <br>
+      <a href="https://www.ulisboa.pt/en/" target="_blank">University of Lisbon</a>
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> Monday, February 22nd, 2021 @ 4PM EST.
+      <br>
+<strong> Talk Title: </strong> TBA
+     <br>
+      <strong> Bio: </strong>  TBA
+      <br>
+      <strong> Meeting Link: </strong> TBA
+    </div>
+  </div>
 
 </div>
