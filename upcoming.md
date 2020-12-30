@@ -135,4 +135,23 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
     </div>
   </div>
 
+   <!-- Stanley -->
+  <div class="talk" id="stanley">
+    <div class="speakerInfo"> 
+                <img alt="Stanley Bak" src="{{site.baseurl}}/assets/img/stanley.jpg">
+      <br>
+      <a href="http://stanleybak.com/" target="_blank">Stanley Bak</a> 
+      <br>
+      <a href="https://www.cs.stonybrook.edu/" target="_blank">Stony Brook University</a>
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> Monday, March 8th, 2021 @ 4PM EST.
+      <br>
+<strong> Talk Title: </strong> TBA
+     <br>
+      <strong> Bio: </strong> Stanley Bak is an assistant professor in the Department of Computer Science at Stony Brook University investigating the verification of autonomy, cyber-physical systems, and neural networks. He strives to develop practical formal methods that are both scalable and useful, which demands developing new theory, programming efficient tools and building experimental systems.
+      <br>
+      <strong> Meeting Link: </strong> TBA
+    </div>
+  </div>
 </div>
