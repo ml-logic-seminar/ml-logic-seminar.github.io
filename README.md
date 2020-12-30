@@ -21,35 +21,35 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td>Monday, January 11th, 2021 @ 1PM EST</td>
       <td><strong><a href="https://www.papernot.fr/" target="_blank">Nicolas Papernot</a></strong></td>
       <td><a href="https://www.utoronto.ca/" target="_blank">U. of Toronto</a>, <a href="https://vectorinstitute.ai/" target="_blank">Vector Institute</a></td>
-      <td> A Marauder's Map of Security and Privacy in Machine Learning</td>
+      <td><strong>A Marauder's Map of Security and Privacy in Machine Learning</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#nicolas">Link</a></td>
     </tr>
     <tr>
       <td>Monday, January 18th, 2021 @ 4PM EST</td>
       <td><strong><a href="http://www.gautamkamath.com/" target="_blank">Gautam Kamath</a></strong></td>
       <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
-      <td>Robustness in unsupervised and supervised machine learning</td>
+      <td><strong>Robustness in unsupervised and supervised machine learning</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#gautam">Link</a></td>
     </tr>    
         <tr>
       <td>Monday, January 25th, 2021 @ 4PM EST</td>
       <td><strong><a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a></strong></td>
       <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
-      <td>Fairness in machine learning</td>
+      <td><strong>Fairness in machine learning</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#shai">Link</a></td>
     </tr>    
     <tr>
       <td>Monday, February 1st, 2021 @ 4PM EST</td>
       <td><strong><a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David </a></strong></td>
       <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
-      <td>Clustering</td>
+      <td><strong>Clustering</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#shai">Link</a></td>
     </tr>    
     <tr>
       <td>Monday, February 8th, 2021 @ 4PM EST</td>
       <td><strong><a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a></strong></td>
       <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
-      <td>Independence from ZFC result</td>
+      <td><strong>Independence from ZFC result</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#shai">Link</a></td>
     </tr>    
 
