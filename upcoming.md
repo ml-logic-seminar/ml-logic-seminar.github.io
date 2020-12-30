@@ -16,7 +16,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, January 11th, 2021 @ 1PM.
       <br>
-<strong> Talk Title: </strong> A Marauder's Map of Security and Privacy in Machine Learning 
+<strong> Talk Title:  A Marauder's Map of Security and Privacy in Machine Learning </strong>
      <br>
       <strong> Bio: </strong> Nicolas Papernot is an assistant professor in the Department of Electrical and Computer Engineering at the University of Toronto. Further, he is a faculty member at the Vector Institute, where he holds a Canada CIFAR AI Chair, and a faculty affiliate at the Schwartz Reisman Institute. He earned his Ph.D. in Computer Science and Engineering at the Pennsylvania State University, working with Prof. Patrick McDaniel and supported by a Google PhD Fellowship in Security and Privacy. Nicolas received a best paper award at ICLR 2017. He is also the co-author of CleverHans, an open-source library widely adopted in the technical community to benchmark machine learning in adversarial settings, and tf.Privacy, an open-source library for training differentially private models with TensorFlow. He serves on the program committees of several conferences including ACM CCS, IEEE S&P, and USENIX Security. In 2016, he received his M.S. in Computer Science and Engineering from the Pennsylvania State University and his M.S. in Engineering Sciences from the Ecole Centrale de Lyon.
       <br>
@@ -36,7 +36,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, January 18th, 2021 @ 4PM.
       <br>
-<strong> Talk Title: </strong> Robustness in unsupervised and supervised machine learning
+<strong> Talk Title: Robustness in unsupervised and supervised machine learning </strong>
      <br>
       <strong> Abstract: </strong> Recently, the need for robust machine learning algorithms has become apparent. Whether due to errors in data collection, model
 misspecification, or adversarial attacks, contaminated datasets arise in many areas. This is an issue, as existing methods appear to be quite
@@ -67,15 +67,15 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
         </tr>
         <tr>
           <td> January 25th @4PM EST </td>
-          <td> Fairness in ML </td>
+          <td> <strong> Fairness in ML  </strong> </td>
         </tr>
         <tr>
           <td> February 1st @4PM EST </td>
-          <td> Clustering </td>
+          <td> <strong> Clustering  </strong> </td>
         </tr>
         <tr>
           <td> February 8th @4PM EST </td>
-          <td> Independence from ZFC result </td>
+          <td>  <strong> Independence from ZFC result </strong> </td>
         </tr>
       </table>
     <br>
@@ -107,7 +107,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, February 15th, 2021 @ 4PM EST.
       <br>
-<strong> Talk Title: </strong> TBA
+<strong> Talk Title: TBA  </strong>
      <br>
       <strong> Bio: </strong>  Gagandeep is a PhD student in the Secure, Reliable, and Intelligent Systems Lab supervised by Prof. Martin Vechev and Prof. Markus Püschel since Nov 2014. He was born in Raebareli, India. He is broadly interested in balancing the precision/performance tradeoff of numerical problems. Examples include numerical domains used in abstract interpretation and robustness analysis of neural networks. He will be starting as an assistant professor of CS at UIUC from August 2021.
       <br>
@@ -127,7 +127,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, February 22nd, 2021 @ 4PM EST.
       <br>
-<strong> Talk Title: </strong> TBA
+<strong> Talk Title: TBA  </strong>
      <br>
       <strong> Bio: </strong>  TBA
       <br>
@@ -147,7 +147,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, March 8th, 2021 @ 4PM EST.
       <br>
-<strong> Talk Title: </strong> TBA
+<strong> Talk Title: TBA </strong>
      <br>
       <strong> Bio: </strong> Stanley Bak is an assistant professor in the Department of Computer Science at Stony Brook University investigating the verification of autonomy, cyber-physical systems, and neural networks. He strives to develop practical formal methods that are both scalable and useful, which demands developing new theory, programming efficient tools and building experimental systems.
       <br>
