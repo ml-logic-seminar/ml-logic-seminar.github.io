@@ -120,7 +120,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
     <div class="speakerInfo"> 
                 <img alt="Mikoláš Janota" src="{{site.baseurl}}/assets/img/mikolas.png">
       <br>
-      <a href=http://sat.inesc-id.pt/~mikolas/" target="_blank">Mikoláš Janota</a> 
+      <a href="http://sat.inesc-id.pt/~mikolas/" target="_blank">Mikoláš Janota</a> 
       <br>
       <a href="https://www.ulisboa.pt/en/" target="_blank">University of Lisbon</a>
     </div>
