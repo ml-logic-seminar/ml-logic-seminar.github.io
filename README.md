@@ -48,14 +48,14 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
     <tr>
       <td>Monday, February 8th, 2021 @ 4PM EST</td>
       <td><strong><a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a></strong></td>
-      <td><a href="https://uwaterloo.ca/" target="_blank">U. of Illinois</a></td>
+      <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
       <td><strong>Independence from ZFC result</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#shai">Link</a></td>
     </tr>    
     <tr>
       <td>Monday, February 15th, 2021 @ 4PM EST</td>
       <td><strong><a href="https://www.sri.inf.ethz.ch/people/gagandeep" target="_blank">Gagandeep Singh</a></strong></td>
-      <td><a href="https://illinois.edu/" target="_blank">U. of Waterloo</a></td>
+      <td><a href="https://illinois.edu/" target="_blank">U. of Illinois</a></td>
       <td><strong>Certified artificial intelligence</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#gagandeep">Link</a></td>
     </tr>    
