@@ -159,7 +159,7 @@ The field of formal verification has traditionally looked at proving properties 
 
 Stanley Bak received a Bachelor's degree in Computer Science from Rensselaer Polytechnic Institute (RPI) in 2007 (summa cum laude), and a Master's degree in Computer Science from the University of Illinois at Urbana-Champaign (UIUC) in 2009. He completed his PhD from the Department of Computer Science at UIUC in 2013. He received the Founders Award of Excellence for his undergraduate research at RPI in 2004, the Debra and Ira Cohen Graduate Fellowship from UIUC twice, in 2008 and 2009, and was awarded the Science, Mathematics and Research for Transformation (SMART) Scholarship from 2009 to 2013. From 2013 to 2018, Stanley was a Research Computer Scientist at the US Air Force Research Lab (AFRL), both in the Information Directorate in Rome, NY, and in the Aerospace Systems Directorate in Dayton, OH. He helped run Safe Sky Analytics, a research consulting company investigating verification and autonomous systems, and performed teaching at Georgetown University before joining Stony Brook University as an assistant professor in Fall 2020.
       <br>
-      <strong> Meeting Link: </strong> TBA
+      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m7696b29019e9f6cec674ceddc613954b" target="_blank">WebEx</a>
     </div>
   </div>
 </div>
