@@ -107,9 +107,11 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, February 15th, 2021 @ 4PM EST.
       <br>
-<strong> Talk Title: TBA  </strong>
+    <strong> Talk Title: Certified Artificial Intelligence </strong>
      <br>
-      <strong> Bio: </strong>  Gagandeep is a PhD student in the Secure, Reliable, and Intelligent Systems Lab supervised by Prof. Martin Vechev and Prof. Markus Püschel since Nov 2014. He was born in Raebareli, India. He is broadly interested in balancing the precision/performance tradeoff of numerical problems. Examples include numerical domains used in abstract interpretation and robustness analysis of neural networks. He will be starting as an assistant professor of CS at UIUC from August 2021.
+      <strong> Abstract: </strong> Despite surpassing human-level performance in many challenging domains such as vision, planning, and natural sciences, there remain concerns about the fragility of modern data-driven AI systems when applied in the real-world, which poses a threat to their wider adoption. Indeed, obtaining AI systems theoretically guaranteed to be safe and reliable is a fundamental challenge of critical importance. In this talk, Gagandeep will present a path towards addressing this fundamental problem. Specifically, He will introduce new mathematical methods combining convex optimization with the classical abstract interpretation framework that enables scalable and precise logical reasoning about the (potentially infinite number of) behaviors of an AI system (e.g., a deep neural network). He will then show how these methods enable both the creation of state-of-the-art automated verifiers for modern AI systems and the design of new provable training techniques. Finally, He will outline several promising future research directions.
+      <br>
+      <strong> Bio: </strong> Gagandeep Singh will be starting as a tenure-track Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) from Fall 2021. He is currently working with VMWare Research. His research interests lie at the intersection of artificial intelligence (AI) and programming languages. His long term goal is to design end-to-end automated formal reasoning tools for real-world systems with both software and AI components such as autonomous vehicles, robots, and AI-powered healthcare devices. Previously, he obtained a Ph.D. in Computer Science from ETH Zurich in 2020, where he designed new scalable and precise automated reasoning methods and tools for programs and deep neural networks.  
       <br>
       <strong> Meeting Link: </strong> TBA
     </div>
