@@ -102,7 +102,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       <br>
       <a href="https://www.sri.inf.ethz.ch/people/gagandeep" target="_blank">Gagandeep Singh</a> 
       <br>
-      <a href="https://ethz.ch/content/main/en.html" target="_blank">ETH Zurich</a>
+      <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign (UIUC)</a>
     </div>
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, February 15th, 2021 @ 4PM EST.
