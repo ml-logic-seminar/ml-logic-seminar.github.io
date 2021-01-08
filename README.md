@@ -73,5 +73,12 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td><strong>Formal Verification for Neural Networks and Cyber-Physical Systems with Reachability Methods</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#stanley">Link</a></td>
     </tr>
+    <tr>
+      <td>Monday, April 12th, 2021 @ 4PM EST</td>
+      <td><strong><a href="https://www.linkedin.com/in/krishnaramkenthapadi" target="_blank">Krishnaram Kenthapadi</a></strong></td>
+      <td><a href="https://aws.amazon.com/ai/" target="_blank">Amazon AWS AI</a></td>
+      <td><strong>Fairness, Explainability, and Privacy in AI/ML Systems</strong></td>
+      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#krishnaram">Link</a></td>
+    </tr>
   </table>
 </div>
