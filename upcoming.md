@@ -93,7 +93,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
         <li> University Research Chair at U Waterloo </li>
       </ul>
       <br>
-      <strong> Meeting Link: </strong> TBA
+      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m1d2a9e9b7d8700202dd5facb5a0cdde8" target="_blank">WebEx</a>
     </div>
   </div>
   
@@ -115,7 +115,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       <br>
       <strong> Bio: </strong> Gagandeep Singh will be starting as a tenure-track Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) from Fall 2021. He is currently working with VMWare Research. His research interests lie at the intersection of artificial intelligence (AI) and programming languages. His long term goal is to design end-to-end automated formal reasoning tools for real-world systems with both software and AI components such as autonomous vehicles, robots, and AI-powered healthcare devices. Previously, he obtained a Ph.D. in Computer Science from ETH Zurich in 2020, where he designed new scalable and precise automated reasoning methods and tools for programs and deep neural networks.  
       <br>
-      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mda8ba361f6841fd335ee1121e3046867" target="_blank">WebEx Link</a>
+      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mda8ba361f6841fd335ee1121e3046867" target="_blank">WebEx</a>
     </div>
   </div>
   
@@ -135,7 +135,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
      <br>
       <strong> Bio: </strong>  TBA
       <br>
-      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m89c96846c5f13ccb2d5e7dba1333127c" target="_blank">WebEx Link</a>
+      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m89c96846c5f13ccb2d5e7dba1333127c" target="_blank">WebEx</a>
     </div>
   </div>
 
