@@ -18,13 +18,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>More Info</th>
     </tr>
     <tr>
-      <td>Monday, January 18th, 2021 @ 4PM EST</td>
-      <td><strong><a href="http://www.gautamkamath.com/" target="_blank">Gautam Kamath</a></strong></td>
-      <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
-      <td><strong>Robustness in unsupervised and supervised machine learning</strong></td>
-      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#gautam">Link</a></td>
-    </tr>    
-        <tr>
       <td>Monday, January 25th, 2021 @ 4PM EST</td>
       <td><strong><a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a></strong></td>
       <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
