@@ -38,6 +38,8 @@ This talk is based on joint work with Yuhao Zhang, Samuel Drews, and Loris D’A
       <br>
       <strong> Bio: </strong> Aws Albarghouthi is an assistant professor at the University of Wisconsin-Madison. He studies automated synthesis and verification of programs. He received his PhD from the University of Toronto in 2015. He has received a number of best-paper awards for his work (at FSE, UIST, and FAST), an NSF CAREER award, a Google Faculty Research Award, and Facebook Research Awards. Aws is very excited about his virtual visit to Waterloo.
     </div>
+    <br>
+    <iframe width="100%" src="https://www.youtube-nocookie.com/embed/9CSc0dbL2V4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
     <!-- Aditya and Matthew -->
   <div class="talk" id="aditya">
@@ -66,6 +68,8 @@ Moreover, DNNs are far from infallible, and mistakes made by DNNs have led to lo
       <strong>Aditya Thakur's Bio: </strong> Aditya Thakur is an assistant professor of Computer Science at the University of California, Davis. He received his Ph.D. from the University of Wisconsin, Madison, and has held positions at Google, Microsoft Research, and the University of California, Berkeley. His research interests include programming languages, machine learning, formal methods, and software engineering. He was the recipient of the Facebook Probability and Programming Research Award 2019 and 2020, and Facebook Testing and Verification Research Award 2018. 
       <br>
       <strong>Matthew Ali Sotoudeh's Bio: </strong> Matthew Sotoudeh is a senior undergraduate student at the University of California, Davis, majoring in Computer Science and Mathematics, where he is a Regents Scholar.
+      <br>
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/NAxXCoVjZjI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
     <!-- Nicolas -->
@@ -86,7 +90,7 @@ Moreover, DNNs are far from infallible, and mistakes made by DNNs have led to lo
       <br>
       <strong> Bio: </strong> Nicolas Papernot is an Assistant Professor in the Department of Electrical and Computer Engineering and the Department of Computer Science at the University of Toronto. He is also a faculty member at the Vector Institute where he holds a Canada CIFAR AI Chair, and a faculty affiliate at the Schwartz Reisman Institute. His research interests span the security and privacy of machine learning. Nicolas is a Connaught Researcher and was previously a Google PhD Fellow. His work on differentially private machine learning received a best paper award at ICLR 2017. He serves on the program committees of several conferences including ACM CCS, IEEE S&P, and USENIX Security. He is also the co-author of CleverHans and TensorFlow Privacy, two open-source libraries widely adopted in the technical community to benchmark the security and privacy of machine learning. He earned his Ph.D. at the Pennsylvania State University, working with Prof. Patrick McDaniel. Upon graduating, he spent a year as a research scientist at Google Brain in Úlfar Erlingsson's group.
       <br>
-      <iframe src="https://www.youtube-nocookie.com/embed/gKUGcWj6M4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/gKUGcWj6M4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
   
