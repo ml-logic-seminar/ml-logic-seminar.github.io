@@ -18,13 +18,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>More Info</th>
     </tr>
     <tr>
-      <td>Monday, January 11th, 2021 @ 1PM EST</td>
-      <td><strong><a href="https://www.papernot.fr/" target="_blank">Nicolas Papernot</a></strong></td>
-      <td><a href="https://www.utoronto.ca/" target="_blank">U. of Toronto</a>, <a href="https://vectorinstitute.ai/" target="_blank">Vector Institute</a></td>
-      <td><strong>What does it mean for ML to be trustworthy?</strong></td>
-      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#nicolas">Link</a></td>
-    </tr>
-    <tr>
       <td>Monday, January 18th, 2021 @ 4PM EST</td>
       <td><strong><a href="http://www.gautamkamath.com/" target="_blank">Gautam Kamath</a></strong></td>
       <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
