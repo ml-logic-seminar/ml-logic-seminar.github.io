@@ -93,6 +93,25 @@ Moreover, DNNs are far from infallible, and mistakes made by DNNs have led to lo
       <strong> Bio: </strong> Nicolas Papernot is an Assistant Professor in the Department of Electrical and Computer Engineering and the Department of Computer Science at the University of Toronto. He is also a faculty member at the Vector Institute where he holds a Canada CIFAR AI Chair, and a faculty affiliate at the Schwartz Reisman Institute. His research interests span the security and privacy of machine learning. Nicolas is a Connaught Researcher and was previously a Google PhD Fellow. His work on differentially private machine learning received a best paper award at ICLR 2017. He serves on the program committees of several conferences including ACM CCS, IEEE S&P, and USENIX Security. He is also the co-author of CleverHans and TensorFlow Privacy, two open-source libraries widely adopted in the technical community to benchmark the security and privacy of machine learning. He earned his Ph.D. at the Pennsylvania State University, working with Prof. Patrick McDaniel. Upon graduating, he spent a year as a research scientist at Google Brain in Úlfar Erlingsson's group.
     </div>
   </div>
-  
-
+    <!-- Gautam -->
+  <div class="talk" id="gautam">
+    <div class="speakerInfo"> 
+                <img alt="Gautam Kamath" src="{{site.baseurl}}/assets/img/gautam.jpg">
+      <br>
+      <a href="http://www.gautamkamath.com/" target="_blank">Gautam Kamath</a> 
+      <br>
+      <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> Monday, January 18th, 2021 @ 4PM.
+      <br>
+<strong> Talk Title: Robustness in unsupervised and supervised machine learning </strong>
+     <br>
+      <strong> Abstract: </strong> Recently, the need for robust machine learning algorithms has become apparent. Whether due to errors in data collection, model misspecification, or adversarial attacks, contaminated datasets arise in many areas. This is an issue, as existing methods appear to be quite brittle to small amounts of errors. Even more worryingly, these models are being deployed in many security-critical settings, such as self-driving cars, where reliability is an absolute must. In this talk, I will describe a line of work in which we provide provable guarantees for robust machine learning in several fundamental settings. I’ll begin by discussing the problem of robust estimation of mean and covariance of a Gaussian distribution, and how to relax this to distributions with weaker assumptions on the moments. I will then describe how these methods can be used to “robustify” supervised learning algorithms by applying robust mean estimation algorithms to the gradients of the dataset. While theoretically sound, the algorithms are also realizable and efficient, and I will present experimental results on both synthetic and real-world data. Based on joint works with Ilias Diakonikolas, Daniel M. Kane, Jerry Li,
+Ankur Moitra, Jacob Steinhardt, and Alistair Stewart.
+      <br>
+      <strong> Bio: </strong> Gautam Kamath is an Assistant Professor at the David R. Cheriton School of Computer Science at the University of Waterloo. He has a B.S. in Computer Science and Electrical and Computer Engineering from Cornell University, and an M.S. and Ph.D. in Computer Science from the Massachusetts Institute of Technology. His research interests lie in methods for statistics and machine learning, with a focus on challenges which arise in modern data
+analysis, including data privacy and robustness. He was a Microsoft Research Fellow, as a part of the Simons-Berkeley Research Fellowship Program at the Simons Institute for the Theory of Computing. He is recipient of an NSERC Discovery Accelerator Supplement, and was awarded the Best Student Presentation Award at the ACM Symposium on Theory of Computing in 2012.
+    </div>
+  </div>
 </div>
