@@ -28,18 +28,18 @@
       <a href="https://www.wisc.edu/" target="_blank">University of Wisconsin-Madison</a>
     </div>
     <div class="talkInfo"> 
-              <strong> Date: </strong> Monday, December 14th, 2020 @ 4PM.
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/9CSc0dbL2V4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br>
-<strong> Talk Title: </strong> A Tale of Two Applications of Verification in Machine Learning
-     <br>
+      <strong> Date: </strong> Monday, December 14th, 2020 @ 4PM.
+      <br>
+      <strong> Talk Title: </strong> A Tale of Two Applications of Verification in Machine Learning
+      <br>
       <strong> Abstract: </strong> The rise of machine learning, particularly in the form of deep learning, has created a qualitative shift in our conception of what software is and what software can accomplish. But, of course, it’s not all rainbows and butterflies. Researchers have been hard at work trying to understand the fragility of the machine-learning pipeline: from training to inference, small changes to the input can result in radical changes to the output, which can lead to security, safety, as well as ethical problems. In this talk, I will show how new techniques from software verification can help us reason about, and ensure, robustness of machine-learning techniques against training-time (poisoning) and test-time (adversarial-example) attacks.
 <br/>
 This talk is based on joint work with Yuhao Zhang, Samuel Drews, and Loris D’Antoni.
       <br>
       <strong> Bio: </strong> Aws Albarghouthi is an assistant professor at the University of Wisconsin-Madison. He studies automated synthesis and verification of programs. He received his PhD from the University of Toronto in 2015. He has received a number of best-paper awards for his work (at FSE, UIST, and FAST), an NSF CAREER award, a Google Faculty Research Award, and Facebook Research Awards. Aws is very excited about his virtual visit to Waterloo.
     </div>
-    <br>
-    <iframe width="100%" src="https://www.youtube-nocookie.com/embed/9CSc0dbL2V4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
     <!-- Aditya and Matthew -->
   <div class="talk" id="aditya">
@@ -56,8 +56,10 @@ This talk is based on joint work with Yuhao Zhang, Samuel Drews, and Loris D’A
       <br>
       <a href="https://www.ucdavis.edu/" target="_blank">University of California, Davis</a>
     </div>
-    <div class="talkInfo"> 
-              <strong> Date: </strong> Monday, December 21st, 2020 @ 4PM.
+    <div class="talkInfo">
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/NAxXCoVjZjI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br>
+      <strong> Date: </strong> Monday, December 21st, 2020 @ 4PM.
       <br>
 <strong> Talk Title: </strong> Understanding and Repairing Deep Neural Networks
      <br>
@@ -68,8 +70,6 @@ Moreover, DNNs are far from infallible, and mistakes made by DNNs have led to lo
       <strong>Aditya Thakur's Bio: </strong> Aditya Thakur is an assistant professor of Computer Science at the University of California, Davis. He received his Ph.D. from the University of Wisconsin, Madison, and has held positions at Google, Microsoft Research, and the University of California, Berkeley. His research interests include programming languages, machine learning, formal methods, and software engineering. He was the recipient of the Facebook Probability and Programming Research Award 2019 and 2020, and Facebook Testing and Verification Research Award 2018. 
       <br>
       <strong>Matthew Ali Sotoudeh's Bio: </strong> Matthew Sotoudeh is a senior undergraduate student at the University of California, Davis, majoring in Computer Science and Mathematics, where he is a Regents Scholar.
-      <br>
-      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/NAxXCoVjZjI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
     <!-- Nicolas -->
@@ -82,15 +82,15 @@ Moreover, DNNs are far from infallible, and mistakes made by DNNs have led to lo
       <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>, <a href="https://vectorinstitute.ai/" target="_blank">Vector Institute</a>
     </div>
     <div class="talkInfo"> 
-              <strong> Date: </strong> Monday, January 11th, 2021 @ 1PM.
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/gKUGcWj6M4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br>
-<strong> Talk Title:  What does it mean for ML to be trustworthy? </strong>
+      <strong> Date: </strong> Monday, January 11th, 2021 @ 1PM.
+      <br>
+      <strong> Talk Title:  What does it mean for ML to be trustworthy? </strong>
      <br>
       <strong> Abstract: </strong> The attack surface of machine learning is large: training data can be poisoned, predictions manipulated using adversarial examples, models exploited to reveal sensitive information contained in training data, etc. This is in large parts due to the absence of security and privacy considerations in the design of ML algorithms. Yet, adversaries have clear incentives to target these systems. Thus, there is a need to ensure that computer systems that rely on ML are trustworthy. Fortunately, we are at a turning point where ML is still being adopted, which creates a rare opportunity to address the shortcomings of the technology before it is widely deployed. Designing secure ML requires that we have a solid understanding as to what we expect legitimate model behavior to look like. We structure our discussion around two directions, which we believe are likely to lead to significant progress. The first encompasses a spectrum of approaches to verification and admission control, which is a prerequisite to enable fail-safe defaults in machine learning systems. The second pursues formal frameworks for security and privacy in machine learning, which we argue should strive to align machine learning goals such as generalization with security and privacy desiderata like robustness or privacy. We illustrate these directions with recent work on adversarial examples, privacy-preserving ML, machine unlearning, and deepfakes.
       <br>
       <strong> Bio: </strong> Nicolas Papernot is an Assistant Professor in the Department of Electrical and Computer Engineering and the Department of Computer Science at the University of Toronto. He is also a faculty member at the Vector Institute where he holds a Canada CIFAR AI Chair, and a faculty affiliate at the Schwartz Reisman Institute. His research interests span the security and privacy of machine learning. Nicolas is a Connaught Researcher and was previously a Google PhD Fellow. His work on differentially private machine learning received a best paper award at ICLR 2017. He serves on the program committees of several conferences including ACM CCS, IEEE S&P, and USENIX Security. He is also the co-author of CleverHans and TensorFlow Privacy, two open-source libraries widely adopted in the technical community to benchmark the security and privacy of machine learning. He earned his Ph.D. at the Pennsylvania State University, working with Prof. Patrick McDaniel. Upon graduating, he spent a year as a research scientist at Google Brain in Úlfar Erlingsson's group.
-      <br>
-      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/gKUGcWj6M4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
   
