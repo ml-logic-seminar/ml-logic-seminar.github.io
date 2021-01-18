@@ -102,8 +102,10 @@ Moreover, DNNs are far from infallible, and mistakes made by DNNs have led to lo
       <br>
       <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>
     </div>
-    <div class="talkInfo"> 
-              <strong> Date: </strong> Monday, January 18th, 2021 @ 4PM.
+    <div class="talkInfo">
+    <iframe width="100%" src="https://www.youtube-nocookie.com/embed/xC6a8THkQ2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br>
+      <strong> Date: </strong> Monday, January 18th, 2021 @ 4PM.
       <br>
 <strong> Talk Title: Robustness in unsupervised and supervised machine learning </strong>
      <br>
@@ -112,8 +114,6 @@ Ankur Moitra, Jacob Steinhardt, and Alistair Stewart.
       <br>
       <strong> Bio: </strong> Gautam Kamath is an Assistant Professor at the David R. Cheriton School of Computer Science at the University of Waterloo. He has a B.S. in Computer Science and Electrical and Computer Engineering from Cornell University, and an M.S. and Ph.D. in Computer Science from the Massachusetts Institute of Technology. His research interests lie in methods for statistics and machine learning, with a focus on challenges which arise in modern data
 analysis, including data privacy and robustness. He was a Microsoft Research Fellow, as a part of the Simons-Berkeley Research Fellowship Program at the Simons Institute for the Theory of Computing. He is recipient of an NSERC Discovery Accelerator Supplement, and was awarded the Best Student Presentation Award at the ACM Symposium on Theory of Computing in 2012.
-      <br>
-      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/xC6a8THkQ2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
 </div>
