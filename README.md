@@ -5,7 +5,7 @@ This online colloquia is on the following topics and open to anyone who is inter
 * Use of ML in logic solvers and provers
 
 <h2 style="text-align:center">Join Our Group</h2>
-Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){:target="_blank"} in order to be notified about upcoming talks. Subscribe to our [calendar](https://calendar.google.com/calendar/u/1?cid=aTVqMmp2bDZkcnM1bzNpcmg3cGYwa2FyNGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"} in order to be add upcoming talks to your calendar.
+Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){:target="_blank"} in order to be notified about upcoming talks. [Subscribe](https://calendar.google.com/calendar/u/1?cid=aTVqMmp2bDZkcnM1bzNpcmg3cGYwa2FyNGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"} in order to add upcoming talks to your calendar.
 
 <h2 style="text-align:center">Upcoming Talks</h2>
 <div style="overflow-x:auto;">
