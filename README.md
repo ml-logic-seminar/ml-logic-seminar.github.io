@@ -7,7 +7,7 @@ This online colloquia is on the following topics and open to anyone who is inter
 <h2 style="text-align:center">Join Our Group</h2>
 Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){:target="_blank"} in order to be notified about upcoming talks. Subscribe to our [calendar](https://calendar.google.com/calendar/u/1?cid=aTVqMmp2bDZkcnM1bzNpcmg3cGYwa2FyNGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"} in order to be add upcoming talks to your calendar.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23616161&amp;ctz=America%2FToronto&amp;src=aTVqMmp2bDZkcnM1bzNpcmg3cGYwa2FyNGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%239E69AF&amp;showTitle=1&amp;showNav=1&amp;showPrint=1&amp;showTabs=1&amp;showCalendars=1&amp;showTz=1&amp;mode=MONTH" style="border:solid 1px #777" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23616161&amp;ctz=America%2FToronto&amp;src=aTVqMmp2bDZkcnM1bzNpcmg3cGYwa2FyNGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%239E69AF&amp;showTitle=1&amp;showNav=1&amp;showPrint=1&amp;showTabs=1&amp;showCalendars=1&amp;showTz=1&amp;mode=MONTH" style="border:solid 1px #777" width="100%" height="350px" frameborder="0" scrolling="no"></iframe>
 
 <h2 style="text-align:center">Upcoming Talks</h2>
 <div style="overflow-x:auto;">
