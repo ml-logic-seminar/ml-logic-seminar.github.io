@@ -41,7 +41,7 @@
   justify-content: space-between;
   align-content: space-between;
 };
-@media (max-width: 640px) {
+@media (max-width: 840px) {
   .topnav a:not(:first-child) {display: none;};
   .topnav a.icon {
     float: right;
@@ -51,7 +51,7 @@
     display: none;
   };
 };
-@media (max-width: 640px) {
+@media (max-width: 840px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
