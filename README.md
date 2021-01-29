@@ -21,14 +21,14 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td>Monday, February 1st, 2021 @ 4PM EST</td>
       <td><strong><a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David </a></strong></td>
       <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
-      <td><strong>Clustering</strong></td>
+      <td><strong>Clustering - what both practitioners and theoreticians are doing wrong</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#shai">Link</a></td>
     </tr>    
     <tr>
       <td>Monday, February 8th, 2021 @ 4PM EST</td>
       <td><strong><a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a></strong></td>
       <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
-      <td><strong>Independence from ZFC result</strong></td>
+      <td><strong>A learning problem that is independent of the set theory ZFC axioms</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#shai">Link</a></td>
     </tr>    
     <tr>
