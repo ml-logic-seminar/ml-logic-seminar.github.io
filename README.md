@@ -16,14 +16,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>Author Affiliation</th>
       <th>Talk Title/Slides</th>
       <th>More Info</th>
-    </tr>
-    <tr>
-      <td>Monday, January 25th, 2021 @ 4PM EST</td>
-      <td><strong><a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a></strong></td>
-      <td><a href="https://uwaterloo.ca/" target="_blank">U. of Waterloo</a></td>
-      <td><strong>Fairness in machine learning</strong></td>
-      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#shai">Link</a></td>
-    </tr>    
+    </tr> 
     <tr>
       <td>Monday, February 1st, 2021 @ 4PM EST</td>
       <td><strong><a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David </a></strong></td>
