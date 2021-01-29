@@ -116,4 +116,34 @@ Ankur Moitra, Jacob Steinhardt, and Alistair Stewart.
 analysis, including data privacy and robustness. He was a Microsoft Research Fellow, as a part of the Simons-Berkeley Research Fellowship Program at the Simons Institute for the Theory of Computing. He is recipient of an NSERC Discovery Accelerator Supplement, and was awarded the Best Student Presentation Award at the ACM Symposium on Theory of Computing in 2012.
     </div>
   </div>
+   
+    <!-- Shai Ben-David -->
+  <div class="talk" id="shai">
+    <div class="speakerInfo"> 
+                <img alt="Shai Ben-David" src="{{site.baseurl}}/assets/img/shai.jpeg">
+      <br>
+      <a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a> 
+      <br>
+      <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>
+    </div>
+    <div class="talkInfo">
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w78XpBIJxDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br>
+      <strong> Date: </strong> Monday, January 25th @4PM EST.
+      <br>
+      <strong> Talk Title: </strong> Fairness in ML
+    <br>
+    <strong> Bio: </strong> Shai Ben-David earned his Ph.D. in mathematics from the Hebrew University in Jerusalem and has been a professor of computer science at the Technion (Israel Institute of Technology).  He held visiting faculty positions at the Australian National University, Cornell University, ETH Zurich, TTI Chicago and the Simons Institute at Berkeley. Since 2004 Shai has been a professor at the David Cheriton School of Computer Science at the University of Waterloo. Since 2019 he is also a faculty member at the Toronto Vector institute. In recent years his research focus turned to machine learning theory. Among his notable contributions in that field are pioneering steps in the analysis of domain adaptation, learnability of real-valued functions, and change detection in streaming data. Shai has also made fundamental contributions to the theory of clustering and published seminal works on average-case complexity, competitive analysis of algorithms and alternatives to worst-case complexity.
+<br>
+      <strong> Highlights: </strong>
+      <ul>
+        <li> President of the Association for Computational Learning Theory (2009-2012). </li>
+        <li> Program chair for the major machine learning theory conferences (COLT and ALT, and frequent area chair for ICML, NIPS and AISTATS). </li>
+        <li> Co-authored the textbook “Understanding machine learning: from theory to algorithms” (Cambridge University Press 2015). </li>
+        <li> Co-author of Best Paper awards, most recently in NIPS 2018. </li>
+        <li> CIFAR AI Chair. </li>
+        <li> University Research Chair at U Waterloo </li>
+      </ul>
+    </div>
+  </div>
 </div>
