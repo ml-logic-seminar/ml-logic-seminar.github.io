@@ -127,7 +127,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>
     </div>
     <div class="talkInfo">
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w78XpBIJxDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/w78XpBIJxDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br>
       <strong> Date: </strong> Monday, January 25th @4PM EST.
       <br>
