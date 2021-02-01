@@ -20,19 +20,12 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
           <th> Talk Titles </th>
         </tr>
         <tr>
-          <td> February 1st @4PM EST </td>
-          <td> <strong> Clustering - what both practitioners and theoreticians are doing wrong.
-  </strong> </td>
-        </tr>
-        <tr>
           <td> February 8th @4PM EST </td>
           <td>  <strong> A learning problem that is independent of the set theory ZFC axioms</strong> </td>
         </tr>
       </table>
     <br>
-        <strong> Abstract for February 1st Talk: </strong> Unsupervised learning is widely recognized as one of the most important challenges facing machine learning nowa- days. However, in spite of hundreds of papers on the topic being published every year, current theoretical understanding and practical implementations of such tasks, in particular of clustering, is very rudimentary. This talk focuses on clustering. I claim that the most significant challenge for clustering is model selection. In contrast with other common computational tasks, for clustering, different algorithms often yield drastically different outcomes. Therefore, the choice of a clustering algorithm, and their parameters (like the number of clusters) may play a crucial role in the usefulness of an output clustering solution. However, currently there exists no methodical guidance for clustering tool-selection for a given clustering task. I argue the severity of this problem and describe some recent proposals aiming to address this crucial lacuna.
-<br>
-        <strong> Abstract for February 8th Talk: </strong> Consider the following statistical estimation problem: given a family F of real valued functions over some domain X and an i.i.d. sample drawn from an unknown distribution P over X, find h in F such that the expectation of h w.r.t. P is probably approximately equal to the supremum over expectations on members of F. This Expectation Maximization (EMX) problem captures many well studied learning problems.
+        <strong> Abstract: </strong> Consider the following statistical estimation problem: given a family F of real valued functions over some domain X and an i.i.d. sample drawn from an unknown distribution P over X, find h in F such that the expectation of h w.r.t. P is probably approximately equal to the supremum over expectations on members of F. This Expectation Maximization (EMX) problem captures many well studied learning problems.
 
 Surprisingly, we showed that the EMX learnability of some simple classes depends on the cardinality of the continuum and is therefore independent of the set theory ZFC axioms.
 
