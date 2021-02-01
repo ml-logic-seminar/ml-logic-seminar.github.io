@@ -131,13 +131,13 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       <br>
       <strong> Talk Title: </strong> Fairness in ML
       <iframe width="100%" src="https://www.youtube-nocookie.com/embed/w78XpBIJxDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <br>
+      <hr>
      <strong> Date: </strong> Monday, February 1st @4PM EST.
       <br>
       <strong> Talk Title: </strong> Clustering - what both practitioners and theoreticians are doing wrong.
       <iframe width="100%" src="https://www.youtube-nocookie.com/embed/w78XpBIJxDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
-<strong> Abstract for February 1st Talk: </strong> Unsupervised learning is widely recognized as one of the most important challenges facing machine learning nowa- days. However, in spite of hundreds of papers on the topic being published every year, current theoretical understanding and practical implementations of such tasks, in particular of clustering, is very rudimentary. This talk focuses on clustering. I claim that the most significant challenge for clustering is model selection. In contrast with other common computational tasks, for clustering, different algorithms often yield drastically different outcomes. Therefore, the choice of a clustering algorithm, and their parameters (like the number of clusters) may play a crucial role in the usefulness of an output clustering solution. However, currently there exists no methodical guidance for clustering tool-selection for a given clustering task. I argue the severity of this problem and describe some recent proposals aiming to address this crucial lacuna.
+<strong> Abstract: </strong> Unsupervised learning is widely recognized as one of the most important challenges facing machine learning nowa- days. However, in spite of hundreds of papers on the topic being published every year, current theoretical understanding and practical implementations of such tasks, in particular of clustering, is very rudimentary. This talk focuses on clustering. I claim that the most significant challenge for clustering is model selection. In contrast with other common computational tasks, for clustering, different algorithms often yield drastically different outcomes. Therefore, the choice of a clustering algorithm, and their parameters (like the number of clusters) may play a crucial role in the usefulness of an output clustering solution. However, currently there exists no methodical guidance for clustering tool-selection for a given clustering task. I argue the severity of this problem and describe some recent proposals aiming to address this crucial lacuna.
 
     <strong> Bio: </strong> Shai Ben-David earned his Ph.D. in mathematics from the Hebrew University in Jerusalem and has been a professor of computer science at the Technion (Israel Institute of Technology).  He held visiting faculty positions at the Australian National University, Cornell University, ETH Zurich, TTI Chicago and the Simons Institute at Berkeley. Since 2004 Shai has been a professor at the David Cheriton School of Computer Science at the University of Waterloo. Since 2019 he is also a faculty member at the Toronto Vector institute. In recent years his research focus turned to machine learning theory. Among his notable contributions in that field are pioneering steps in the analysis of domain adaptation, learnability of real-valued functions, and change detection in streaming data. Shai has also made fundamental contributions to the theory of clustering and published seminal works on average-case complexity, competitive analysis of algorithms and alternatives to worst-case complexity.
 <br>
@@ -152,16 +152,5 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       </ul>
     </div>
   </div>
-  
-  <div class="talk" id="shai2">
-    <div class="speakerInfo"> 
-                <img alt="Shai Ben-David" src="{{site.baseurl}}/assets/img/shai.jpeg">
-      <br>
-      <a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a> 
-      <br>
-      <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>
-    </div>
-    <div class="talkInfo">
-    </div>
-  </div>
+
 </div>
