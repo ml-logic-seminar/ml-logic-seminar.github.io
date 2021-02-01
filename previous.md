@@ -1,5 +1,5 @@
 <h2 style="text-align:center"> Previous Talks </h2>
-
+View a [playlist](https://youtube.com/playlist?list=PLi_yq6VKWbcYMDd4l_4-mbrvRh17yODcv){:target="_blank"} of recordings of our previous talks.
 <div class="talks">
   <!-- Chaowei -->
   <div class="talk" id="chaowei">
