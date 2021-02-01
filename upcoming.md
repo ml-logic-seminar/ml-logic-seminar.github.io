@@ -20,8 +20,8 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
           <th> Talk Titles </th>
         </tr>
         <tr>
-          <td> February 8th @4PM EST </td>
           <td>  <strong> A learning problem that is independent of the set theory ZFC axioms</strong> </td>
+          <td> February 8th @4PM EST </td>
         </tr>
       </table>
     <br>
