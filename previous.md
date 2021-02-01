@@ -146,4 +146,23 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       </ul>
     </div>
   </div>
+  
+  <div class="talk" id="shai2">
+    <div class="speakerInfo"> 
+                <img alt="Shai Ben-David" src="{{site.baseurl}}/assets/img/shai.jpeg">
+      <br>
+      <a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a> 
+      <br>
+      <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>
+    </div>
+    <div class="talkInfo">
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/w78XpBIJxDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br>
+      <strong> Date: </strong> Monday, February 1st @4PM EST.
+      <br>
+      <strong> Talk Title: </strong> Clustering - what both practitioners and theoreticians are doing wrong.
+    <br>
+<strong> Abstract for February 1st Talk: </strong> Unsupervised learning is widely recognized as one of the most important challenges facing machine learning nowa- days. However, in spite of hundreds of papers on the topic being published every year, current theoretical understanding and practical implementations of such tasks, in particular of clustering, is very rudimentary. This talk focuses on clustering. I claim that the most significant challenge for clustering is model selection. In contrast with other common computational tasks, for clustering, different algorithms often yield drastically different outcomes. Therefore, the choice of a clustering algorithm, and their parameters (like the number of clusters) may play a crucial role in the usefulness of an output clustering solution. However, currently there exists no methodical guidance for clustering tool-selection for a given clustering task. I argue the severity of this problem and describe some recent proposals aiming to address this crucial lacuna.
+    </div>
+  </div>
 </div>
