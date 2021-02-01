@@ -16,8 +16,8 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
     <div class="talkInfo">
       <table>
         <tr>
+          <th> Talk Title </th>
           <th> Date </th>
-          <th> Talk Titles </th>
         </tr>
         <tr>
           <td>  <strong> A learning problem that is independent of the set theory ZFC axioms</strong> </td>
