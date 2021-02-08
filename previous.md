@@ -135,7 +135,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
      <strong> Date: </strong> Monday, February 1st @4PM EST.
       <br>
       <strong> Talk Title: </strong> Clustering - what both practitioners and theoreticians are doing wrong.
-      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/w78XpBIJxDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/95FQMv6vkMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <hr>
       <strong> Date: </strong> Monday, February 8th @4PM EST.
       <br>
