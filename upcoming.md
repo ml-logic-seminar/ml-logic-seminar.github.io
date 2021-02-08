@@ -3,51 +3,7 @@
 Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join 
 ){:target="_blank"} in order to receive emails with the link for the talks.
 
-<div class="talks">  
-    <!-- Shai Ben-David -->
-  <div class="talk" id="shai">
-    <div class="speakerInfo"> 
-                <img alt="Shai Ben-David" src="{{site.baseurl}}/assets/img/shai.jpeg">
-      <br>
-      <a href="https://cs.uwaterloo.ca/~shai/" target="_blank">Shai Ben-David</a> 
-      <br>
-      <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>
-    </div>
-    <div class="talkInfo">
-      <table>
-        <tr>
-          <th> Talk Title </th>
-          <th> Date </th>
-        </tr>
-        <tr>
-          <td>  <strong> A learning problem that is independent of the set theory ZFC axioms</strong> </td>
-          <td> February 8th @4PM EST </td>
-        </tr>
-      </table>
-    <br>
-        <strong> Abstract: </strong> Consider the following statistical estimation problem: given a family F of real valued functions over some domain X and an i.i.d. sample drawn from an unknown distribution P over X, find h in F such that the expectation of h w.r.t. P is probably approximately equal to the supremum over expectations on members of F. This Expectation Maximization (EMX) problem captures many well studied learning problems.
-
-Surprisingly, we showed that the EMX learnability of some simple classes depends on the cardinality of the continuum and is therefore independent of the set theory ZFC axioms.
-
-I will also address the existence of a "VC-dimension-like" parameter that captures learnability in this setting. Our results imply that that there exist no "finitary" combinatorial parameter that characterizes EMX learnability in a way similar to the VC-dimension based characterization of binary valued classification problems.
-This is joint work with <a href="https://arxiv.org/search/cs?searchtype=author&query=Hrubes%2C+P" target="_blank">Pavel Hrubes</a>, <a href="https://arxiv.org/search/cs?searchtype=author&query=Moran%2C+S" target="_blank">Shay Moran</a>, <a href="https://arxiv.org/search/cs?searchtype=author&query=Shpilka%2C+A" target="_blank">Amir Shpilka</a>, and <a href="https://arxiv.org/search/cs?searchtype=author&query=Yehudayoff%2C+A" target="_blank">Amir Yehudayoff</a>
-<br>
-    <strong> Bio: </strong> Shai Ben-David earned his Ph.D. in mathematics from the Hebrew University in Jerusalem and has been a professor of computer science at the Technion (Israel Institute of Technology).  He held visiting faculty positions at the Australian National University, Cornell University, ETH Zurich, TTI Chicago and the Simons Institute at Berkeley. Since 2004 Shai has been a professor at the David Cheriton School of Computer Science at the University of Waterloo. Since 2019 he is also a faculty member at the Toronto Vector institute. In recent years his research focus turned to machine learning theory. Among his notable contributions in that field are pioneering steps in the analysis of domain adaptation, learnability of real-valued functions, and change detection in streaming data. Shai has also made fundamental contributions to the theory of clustering and published seminal works on average-case complexity, competitive analysis of algorithms and alternatives to worst-case complexity.
-<br>
-      <strong> Highlights: </strong>
-      <ul>
-        <li> President of the Association for Computational Learning Theory (2009-2012). </li>
-        <li> Program chair for the major machine learning theory conferences (COLT and ALT, and frequent area chair for ICML, NIPS and AISTATS). </li>
-        <li> Co-authored the textbook “Understanding machine learning: from theory to algorithms” (Cambridge University Press 2015). </li>
-        <li> Co-author of Best Paper awards, most recently in NIPS 2018. </li>
-        <li> CIFAR AI Chair. </li>
-        <li> University Research Chair at U Waterloo </li>
-      </ul>
-      <br>
-      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m1d2a9e9b7d8700202dd5facb5a0cdde8" target="_blank">WebEx</a>
-    </div>
-  </div>
-  
+<div class="talks">    
    <!-- Gagandeep -->
   <div class="talk" id="gagandeep">
     <div class="speakerInfo"> 
