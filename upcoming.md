@@ -49,25 +49,25 @@ Stanley Bak received a Bachelor's degree in Computer Science from Rensselaer Pol
       <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m7696b29019e9f6cec674ceddc613954b" target="_blank">WebEx</a>
     </div>
   </div>
-  <!-- Gagandeep -->
-  <div class="talk" id="gagandeep">
+  <!-- Kuldeep -->
+  <div class="talk" id="kuldeep">
     <div class="speakerInfo"> 
-                <img alt="Gagandeep Singh" src="{{site.baseurl}}/assets/img/gagandeep.jpg">
+                <img alt="Kuldeep S. Meel" src="{{site.baseurl}}/assets/img/kuldeep.jpg">
       <br>
-      <a href="https://www.sri.inf.ethz.ch/people/gagandeep" target="_blank">Gagandeep Singh</a> 
+      <a href="https://www.comp.nus.edu.sg/~meel/" target="_blank">Kuldeep Meel</a> 
       <br>
-      <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign (UIUC)</a>
+      <a href="https://www.comp.nus.edu.sg/" target="_blank">National University of Singapore</a>
     </div>
     <div class="talkInfo"> 
-              <strong> Date: </strong> Monday, February 15th, 2021 @ 4PM EST.
+              <strong> Date: </strong> Monday, March 15th, 2021 @ 1PM EST.
       <br>
-    <strong> Talk Title: Certified Artificial Intelligence </strong>
+    <strong> Talk Title: TBA </strong>
      <br>
-      <strong> Abstract: </strong> Despite surpassing human-level performance in many challenging domains such as vision, planning, and natural sciences, there remain concerns about the fragility of modern data-driven AI systems when applied in the real-world, which poses a threat to their wider adoption. Indeed, obtaining AI systems theoretically guaranteed to be safe and reliable is a fundamental challenge of critical importance. In this talk, Gagandeep will present a path towards addressing this fundamental problem. Specifically, He will introduce new mathematical methods combining convex optimization with the classical abstract interpretation framework that enables scalable and precise logical reasoning about the (potentially infinite number of) behaviors of an AI system (e.g., a deep neural network). He will then show how these methods enable both the creation of state-of-the-art automated verifiers for modern AI systems and the design of new provable training techniques. Finally, He will outline several promising future research directions.
+      <strong> Abstract: </strong> TBA
       <br>
-      <strong> Bio: </strong> Gagandeep Singh will be starting as a tenure-track Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) from Fall 2021. He is currently working with VMWare Research. His research interests lie at the intersection of artificial intelligence (AI) and programming languages. His long term goal is to design end-to-end automated formal reasoning tools for real-world systems with both software and AI components such as autonomous vehicles, robots, and AI-powered healthcare devices. Previously, he obtained a Ph.D. in Computer Science from ETH Zurich in 2020, where he designed new scalable and precise automated reasoning methods and tools for programs and deep neural networks.  
+      <strong> Bio: </strong> TBA
       <br>
-      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mda8ba361f6841fd335ee1121e3046867" target="_blank">WebEx</a>
+      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m3c4e87fc8d72e02beed0c7d58de9d485" target="_blank">WebEx</a>
     </div>
   </div>
   
