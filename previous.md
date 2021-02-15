@@ -141,7 +141,7 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       <strong> Date: </strong> Monday, February 8th @4PM EST.
       <br>
       <strong> Talk Title: </strong> A learning problem that is independent of the set theory ZFC axioms
-      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/w78XpBIJxDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/15YpLFIU9FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      <hr>
 <strong> Abstract: </strong> Unsupervised learning is widely recognized as one of the most important challenges facing machine learning nowa- days. However, in spite of hundreds of papers on the topic being published every year, current theoretical understanding and practical implementations of such tasks, in particular of clustering, is very rudimentary. This talk focuses on clustering. I claim that the most significant challenge for clustering is model selection. In contrast with other common computational tasks, for clustering, different algorithms often yield drastically different outcomes. Therefore, the choice of a clustering algorithm, and their parameters (like the number of clusters) may play a crucial role in the usefulness of an output clustering solution. However, currently there exists no methodical guidance for clustering tool-selection for a given clustering task. I argue the severity of this problem and describe some recent proposals aiming to address this crucial lacuna.
      <br>
