@@ -18,13 +18,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>More Info</th>
     </tr> 
     <tr>
-      <td>Monday, February 15th, 2021 @ 4PM EST</td>
-      <td><strong><a href="https://www.sri.inf.ethz.ch/people/gagandeep" target="_blank">Gagandeep Singh</a></strong></td>
-      <td><a href="https://illinois.edu/" target="_blank">U. of Illinois</a></td>
-      <td><strong>Certified artificial intelligence</strong></td>
-      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#gagandeep">Link</a></td>
-    </tr>    
-    <tr>
       <td>Monday, February 22nd, 2021 @ 4PM EST</td>
       <td><strong><a href="http://sat.inesc-id.pt/~mikolas/" target="_blank">Mikoláš Janota</a></strong></td>
       <td><a href="https://www.ulisboa.pt/en/" target="_blank">U. of Lisbon</a></td>
