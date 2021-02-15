@@ -4,28 +4,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
 ){:target="_blank"} in order to receive emails with the link for the talks.
 
 <div class="talks">    
-   <!-- Gagandeep -->
-  <div class="talk" id="gagandeep">
-    <div class="speakerInfo"> 
-                <img alt="Gagandeep Singh" src="{{site.baseurl}}/assets/img/gagandeep.jpg">
-      <br>
-      <a href="https://www.sri.inf.ethz.ch/people/gagandeep" target="_blank">Gagandeep Singh</a> 
-      <br>
-      <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign (UIUC)</a>
-    </div>
-    <div class="talkInfo"> 
-              <strong> Date: </strong> Monday, February 15th, 2021 @ 4PM EST.
-      <br>
-    <strong> Talk Title: Certified Artificial Intelligence </strong>
-     <br>
-      <strong> Abstract: </strong> Despite surpassing human-level performance in many challenging domains such as vision, planning, and natural sciences, there remain concerns about the fragility of modern data-driven AI systems when applied in the real-world, which poses a threat to their wider adoption. Indeed, obtaining AI systems theoretically guaranteed to be safe and reliable is a fundamental challenge of critical importance. In this talk, Gagandeep will present a path towards addressing this fundamental problem. Specifically, He will introduce new mathematical methods combining convex optimization with the classical abstract interpretation framework that enables scalable and precise logical reasoning about the (potentially infinite number of) behaviors of an AI system (e.g., a deep neural network). He will then show how these methods enable both the creation of state-of-the-art automated verifiers for modern AI systems and the design of new provable training techniques. Finally, He will outline several promising future research directions.
-      <br>
-      <strong> Bio: </strong> Gagandeep Singh will be starting as a tenure-track Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) from Fall 2021. He is currently working with VMWare Research. His research interests lie at the intersection of artificial intelligence (AI) and programming languages. His long term goal is to design end-to-end automated formal reasoning tools for real-world systems with both software and AI components such as autonomous vehicles, robots, and AI-powered healthcare devices. Previously, he obtained a Ph.D. in Computer Science from ETH Zurich in 2020, where he designed new scalable and precise automated reasoning methods and tools for programs and deep neural networks.  
-      <br>
-      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mda8ba361f6841fd335ee1121e3046867" target="_blank">WebEx</a>
-    </div>
-  </div>
-  
      <!-- Mikolas -->
   <div class="talk" id="mikolas">
     <div class="speakerInfo"> 
@@ -69,6 +47,27 @@ The field of formal verification has traditionally looked at proving properties 
 Stanley Bak received a Bachelor's degree in Computer Science from Rensselaer Polytechnic Institute (RPI) in 2007 (summa cum laude), and a Master's degree in Computer Science from the University of Illinois at Urbana-Champaign (UIUC) in 2009. He completed his PhD from the Department of Computer Science at UIUC in 2013. He received the Founders Award of Excellence for his undergraduate research at RPI in 2004, the Debra and Ira Cohen Graduate Fellowship from UIUC twice, in 2008 and 2009, and was awarded the Science, Mathematics and Research for Transformation (SMART) Scholarship from 2009 to 2013. From 2013 to 2018, Stanley was a Research Computer Scientist at the US Air Force Research Lab (AFRL), both in the Information Directorate in Rome, NY, and in the Aerospace Systems Directorate in Dayton, OH. He helped run Safe Sky Analytics, a research consulting company investigating verification and autonomous systems, and performed teaching at Georgetown University before joining Stony Brook University as an assistant professor in Fall 2020.
       <br>
       <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m7696b29019e9f6cec674ceddc613954b" target="_blank">WebEx</a>
+    </div>
+  </div>
+  <!-- Gagandeep -->
+  <div class="talk" id="gagandeep">
+    <div class="speakerInfo"> 
+                <img alt="Gagandeep Singh" src="{{site.baseurl}}/assets/img/gagandeep.jpg">
+      <br>
+      <a href="https://www.sri.inf.ethz.ch/people/gagandeep" target="_blank">Gagandeep Singh</a> 
+      <br>
+      <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign (UIUC)</a>
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> Monday, February 15th, 2021 @ 4PM EST.
+      <br>
+    <strong> Talk Title: Certified Artificial Intelligence </strong>
+     <br>
+      <strong> Abstract: </strong> Despite surpassing human-level performance in many challenging domains such as vision, planning, and natural sciences, there remain concerns about the fragility of modern data-driven AI systems when applied in the real-world, which poses a threat to their wider adoption. Indeed, obtaining AI systems theoretically guaranteed to be safe and reliable is a fundamental challenge of critical importance. In this talk, Gagandeep will present a path towards addressing this fundamental problem. Specifically, He will introduce new mathematical methods combining convex optimization with the classical abstract interpretation framework that enables scalable and precise logical reasoning about the (potentially infinite number of) behaviors of an AI system (e.g., a deep neural network). He will then show how these methods enable both the creation of state-of-the-art automated verifiers for modern AI systems and the design of new provable training techniques. Finally, He will outline several promising future research directions.
+      <br>
+      <strong> Bio: </strong> Gagandeep Singh will be starting as a tenure-track Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) from Fall 2021. He is currently working with VMWare Research. His research interests lie at the intersection of artificial intelligence (AI) and programming languages. His long term goal is to design end-to-end automated formal reasoning tools for real-world systems with both software and AI components such as autonomous vehicles, robots, and AI-powered healthcare devices. Previously, he obtained a Ph.D. in Computer Science from ETH Zurich in 2020, where he designed new scalable and precise automated reasoning methods and tools for programs and deep neural networks.  
+      <br>
+      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=mda8ba361f6841fd335ee1121e3046867" target="_blank">WebEx</a>
     </div>
   </div>
   
