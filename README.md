@@ -21,7 +21,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td>Monday, February 22nd, 2021 @ 4PM EST</td>
       <td><strong><a href="http://sat.inesc-id.pt/~mikolas/" target="_blank">Mikoláš Janota</a></strong></td>
       <td><a href="https://www.cvut.cz/en/" target="_blank">Czech Technical U.</a></td>
-      <td><strong>TBA</strong></td>
+      <td><strong>Towards ML for Quantification in SMT</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#mikolas">Link</a></td>
     </tr>
     <tr>
