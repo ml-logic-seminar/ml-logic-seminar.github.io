@@ -11,16 +11,16 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       <br>
       <a href="http://sat.inesc-id.pt/~mikolas/" target="_blank">Mikoláš Janota</a> 
       <br>
-      <a href="https://www.ulisboa.pt/en/" target="_blank">University of Lisbon</a>
+      <a href="https://www.cvut.cz/en/" target="_blank">Czech Technical University</a>
     </div>
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, February 22nd, 2021 @ 4PM EST.
       <br>
-    <strong> Talk Title: TBA  </strong>
+    <strong> Talk Title: Towards  ML for Quantification in SMT </strong>
      <br>
          <strong> Abstract: </strong> We aim to use ML to guide quantifier instantiation in SMT solving. What is the motivation for this? Quantifiers are indispensable in logic-based modeling, yet infamously hard to reason about. It can already be shown that exponential speedups are obtained by clever instantiation of quantifiers in finite domains. We will look at this in the context of Quantified Boolean Formulas (QBF). Further, we will look at the use of ML in the context of finite first-order models.  The second part of the talk will outline how ML can help in general SMT  quantifier instantiation and what ML methods are applicable in this domain.
          <br>
-      <strong> Bio: </strong>  TBA
+      <strong> Bio: </strong> Mikoláš Janota was born in Prague, when it was still Czechoslovakia, where he did his Masters at the Charles University and where he also developed a passion for solving and applying logic-based reasoning. He did his Ph.D. at University College Dublin, Ireland, where he worked on software verification and product configuration followed by postdoctoral positions in Portugal and Microsoft Research, Cambridge UK. He held the position of assistant lecturer at the University of Lisbon, Portugal until last year. Last September he moved back to the Czech Republic accepting the position of a senior researcher at Czech Technical University.
       <br>
       <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m89c96846c5f13ccb2d5e7dba1333127c" target="_blank">WebEx</a>
     </div>
