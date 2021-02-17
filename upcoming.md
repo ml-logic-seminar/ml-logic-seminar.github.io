@@ -16,8 +16,10 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
     <div class="talkInfo"> 
               <strong> Date: </strong> Monday, February 22nd, 2021 @ 4PM EST.
       <br>
-<strong> Talk Title: TBA  </strong>
+    <strong> Talk Title: TBA  </strong>
      <br>
+         <strong> Abstract: </strong> We aim to use ML to guide quantifier instantiation in SMT solving. What is the motivation for this? Quantifiers are indispensable in logic-based modeling, yet infamously hard to reason about. It can already be shown that exponential speedups are obtained by clever instantiation of quantifiers in finite domains. We will look at this in the context of Quantified Boolean Formulas (QBF). Further, we will look at the use of ML in the context of finite first-order models.  The second part of the talk will outline how ML can help in general SMT  quantifier instantiation and what ML methods are applicable in this domain.
+         <br>
       <strong> Bio: </strong>  TBA
       <br>
       <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m89c96846c5f13ccb2d5e7dba1333127c" target="_blank">WebEx</a>
