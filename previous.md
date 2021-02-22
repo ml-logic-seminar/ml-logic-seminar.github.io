@@ -182,4 +182,25 @@ analysis, including data privacy and robustness. He was a Microsoft Research Fel
       <strong> Bio: </strong> Gagandeep Singh will be starting as a tenure-track Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) from Fall 2021. He is currently working with VMWare Research. His research interests lie at the intersection of artificial intelligence (AI) and programming languages. His long term goal is to design end-to-end automated formal reasoning tools for real-world systems with both software and AI components such as autonomous vehicles, robots, and AI-powered healthcare devices. Previously, he obtained a Ph.D. in Computer Science from ETH Zurich in 2020, where he designed new scalable and precise automated reasoning methods and tools for programs and deep neural networks.  
     </div>
   </div>
+  
+       <!-- Mikolas -->
+  <div class="talk" id="mikolas">
+    <div class="speakerInfo"> 
+                <img alt="Mikoláš Janota" src="{{site.baseurl}}/assets/img/mikolas.png">
+      <br>
+      <a href="http://sat.inesc-id.pt/~mikolas/" target="_blank">Mikoláš Janota</a> 
+      <br>
+      <a href="https://www.cvut.cz/en/" target="_blank">Czech Technical University</a>
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> Monday, February 22nd, 2021 @ 4PM EST.
+      <br>
+    <strong> Talk Title: Towards  ML for Quantification in SMT </strong>
+     <br>
+         <strong> Abstract: </strong> We aim to use ML to guide quantifier instantiation in SMT solving. What is the motivation for this? Quantifiers are indispensable in logic-based modeling, yet infamously hard to reason about. It can already be shown that exponential speedups are obtained by clever instantiation of quantifiers in finite domains. We will look at this in the context of Quantified Boolean Formulas (QBF). Further, we will look at the use of ML in the context of finite first-order models.  The second part of the talk will outline how ML can help in general SMT  quantifier instantiation and what ML methods are applicable in this domain.
+         <br>
+      <strong> Bio: </strong> Mikoláš Janota was born in Prague, when it was still Czechoslovakia, where he did his Masters at the Charles University and where he also developed a passion for solving and applying logic-based reasoning. He did his Ph.D. at University College Dublin, Ireland, where he worked on software verification and product configuration followed by postdoctoral positions in Portugal and Microsoft Research, Cambridge UK. He held the position of assistant lecturer at the University of Lisbon, Portugal until last year. Last September he moved back to the Czech Republic accepting the position of a senior researcher at Czech Technical University.
+      <br>
+    </div>
+  </div>
 </div>
