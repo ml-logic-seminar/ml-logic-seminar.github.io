@@ -18,13 +18,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>More Info</th>
     </tr> 
     <tr>
-      <td>Monday, February 22nd, 2021 @ 4PM EST</td>
-      <td><strong><a href="http://sat.inesc-id.pt/~mikolas/" target="_blank">Mikoláš Janota</a></strong></td>
-      <td><a href="https://www.cvut.cz/en/" target="_blank">Czech Technical U.</a></td>
-      <td><strong>Towards ML for Quantification in SMT</strong></td>
-      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#mikolas">Link</a></td>
-    </tr>
-    <tr>
       <td>Monday, March 8th, 2021 @ 4PM EST</td>
       <td><strong><a href="http://stanleybak.com/" target="_blank">Stanley Bak</a></strong></td>
       <td><a href="https://www.cs.stonybrook.edu/" target="_blank">Stony Brook U.</a></td>
