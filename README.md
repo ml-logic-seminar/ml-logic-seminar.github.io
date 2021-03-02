@@ -28,7 +28,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td>Monday, March 15th, 2021 @ 1PM EST</td>
       <td><strong><a href="https://www.comp.nus.edu.sg/~meel/" target="_blank">Kuldeep Meel</a></strong></td>
       <td><a href="https://www.comp.nus.edu.sg/" target="_blank">National U. of Singapore</a></td>
-      <td><strong>TBA</strong></td>
+      <td><strong>Functional Synthesis: An Ideal Meeting Ground for Formal Methods and Machine Learning</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#kuldeep">Link</a></td>
     </tr>
     <tr>
