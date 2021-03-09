@@ -18,13 +18,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>More Info</th>
     </tr> 
     <tr>
-      <td>Monday, March 8th, 2021 @ 4PM EST</td>
-      <td><strong><a href="http://stanleybak.com/" target="_blank">Stanley Bak</a></strong></td>
-      <td><a href="https://www.cs.stonybrook.edu/" target="_blank">Stony Brook U.</a></td>
-      <td><strong>Formal Verification for Neural Networks and Cyber-Physical Systems with Reachability Methods</strong></td>
-      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#stanley">Link</a></td>
-    </tr>
-    <tr>
       <td>Monday, March 15th, 2021 @ 1PM EST</td>
       <td><strong><a href="https://www.comp.nus.edu.sg/~meel/" target="_blank">Kuldeep Meel</a></strong></td>
       <td><a href="https://www.comp.nus.edu.sg/" target="_blank">National U. of Singapore</a></td>
