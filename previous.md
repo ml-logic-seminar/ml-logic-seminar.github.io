@@ -227,5 +227,30 @@ The field of formal verification has traditionally looked at proving properties 
 Stanley Bak received a Bachelor's degree in Computer Science from Rensselaer Polytechnic Institute (RPI) in 2007 (summa cum laude), and a Master's degree in Computer Science from the University of Illinois at Urbana-Champaign (UIUC) in 2009. He completed his PhD from the Department of Computer Science at UIUC in 2013. He received the Founders Award of Excellence for his undergraduate research at RPI in 2004, the Debra and Ira Cohen Graduate Fellowship from UIUC twice, in 2008 and 2009, and was awarded the Science, Mathematics and Research for Transformation (SMART) Scholarship from 2009 to 2013. From 2013 to 2018, Stanley was a Research Computer Scientist at the US Air Force Research Lab (AFRL), both in the Information Directorate in Rome, NY, and in the Aerospace Systems Directorate in Dayton, OH. He helped run Safe Sky Analytics, a research consulting company investigating verification and autonomous systems, and performed teaching at Georgetown University before joining Stony Brook University as an assistant professor in Fall 2020.
     </div>
   </div>
+  
+  <!-- Kuldeep -->
+  <div class="talk" id="kuldeep">
+    <div class="speakerInfo"> 
+                <img alt="Kuldeep S. Meel" src="{{site.baseurl}}/assets/img/kuldeep.jpg">
+      <br>
+      <a href="https://www.comp.nus.edu.sg/~meel/" target="_blank">Kuldeep Meel</a> 
+      <br>
+      <a href="https://www.comp.nus.edu.sg/" target="_blank">National University of Singapore</a>
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> Monday, March 15th, 2021 @ 1PM EST.
+      <br>
+    <strong> Talk Title: Functional Synthesis: An Ideal Meeting Ground for Formal Methods and Machine Learning </strong>
+     <br>
+      <strong> Abstract: </strong> Don't we all dream of the perfect assistant whom we can just tell what to do and the assistant can figure out how to accomplish the tasks?
+Formally, given a specification F(X,Y) over the set of input variables X and output variables Y, we want the asssistant, aka functional synthesis engine, to design a function
+G such that (X,Y=G(X)) satisfies F.  Functional synthesis has been studied for over 150 years, dating back Boole in 1850's and yet scalability remains a core challenge.
+Motivated by progress in machine learning, we design a new algorithmic framework Manthan, which views functional synthesis as a classification problem, relying on advances in constrained sampling for data generation, and advances in automated reasoning for a novel proof-guided refinement and provable verification. On an extensive and rigorous evaluation over 609 benchmarks, we demonstrate that Manthan significantly improves upon the current state of the art, solving 356 benchmarks in comparison to 280, which is the most solved by a state of the art technique; thereby, we demonstrate an increase of 76 benchmarks over the current state of the art. The significant performance improvements, along with our detailed analysis, highlights several interesting avenues of future work at the intersection of machine learning, constrained sampling, and automated reasoning. 
+      <br>
+      <strong> Bio: </strong> Kuldeep Meel is Sung Kah Kay Assistant Professor in the Computer Science Department of School of Computing at National University of Singapore.   His research interests lie at the intersection of Formal Methods and Artificial Intelligence. He is a recipient of 2019 NRF Fellowship for AI, and was named AI's 10 to Watch by IEEE Intelligent Systems in 2020. His work received the 2018 Ralph Budd Award for Best PhD Thesis in Engineering, 2014 Outstanding Masters Thesis Award from Vienna Center of Logic and Algorithms and Best Student Paper Award at CP 2015.He received his Ph.D. (2017) and M.S. (2014) degree from Rice University, and B. Tech. (with Honors) degree (2012) in Computer Science and Engineering from Indian Institute of Technology, Bombay.
+      <br>
+      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m3c4e87fc8d72e02beed0c7d58de9d485" target="_blank">WebEx</a>
+    </div>
+  </div>
 
 </div>
