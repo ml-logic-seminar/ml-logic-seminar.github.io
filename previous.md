@@ -238,7 +238,9 @@ Stanley Bak received a Bachelor's degree in Computer Science from Rensselaer Pol
       <a href="https://www.comp.nus.edu.sg/" target="_blank">National University of Singapore</a>
     </div>
     <div class="talkInfo"> 
-              <strong> Date: </strong> Monday, March 15th, 2021 @ 1PM EST.
+      <iframe width="100%" src="https://www.youtube-nocookie.com/embed/jmUQNpQY_Gw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>           </iframe>
+        <br>
+      <strong> Date: </strong> Monday, March 15th, 2021 @ 1PM EST.
       <br>
     <strong> Talk Title: Functional Synthesis: An Ideal Meeting Ground for Formal Methods and Machine Learning </strong>
      <br>
@@ -248,8 +250,6 @@ G such that (X,Y=G(X)) satisfies F.  Functional synthesis has been studied for o
 Motivated by progress in machine learning, we design a new algorithmic framework Manthan, which views functional synthesis as a classification problem, relying on advances in constrained sampling for data generation, and advances in automated reasoning for a novel proof-guided refinement and provable verification. On an extensive and rigorous evaluation over 609 benchmarks, we demonstrate that Manthan significantly improves upon the current state of the art, solving 356 benchmarks in comparison to 280, which is the most solved by a state of the art technique; thereby, we demonstrate an increase of 76 benchmarks over the current state of the art. The significant performance improvements, along with our detailed analysis, highlights several interesting avenues of future work at the intersection of machine learning, constrained sampling, and automated reasoning. 
       <br>
       <strong> Bio: </strong> Kuldeep Meel is Sung Kah Kay Assistant Professor in the Computer Science Department of School of Computing at National University of Singapore.   His research interests lie at the intersection of Formal Methods and Artificial Intelligence. He is a recipient of 2019 NRF Fellowship for AI, and was named AI's 10 to Watch by IEEE Intelligent Systems in 2020. His work received the 2018 Ralph Budd Award for Best PhD Thesis in Engineering, 2014 Outstanding Masters Thesis Award from Vienna Center of Logic and Algorithms and Best Student Paper Award at CP 2015.He received his Ph.D. (2017) and M.S. (2014) degree from Rice University, and B. Tech. (with Honors) degree (2012) in Computer Science and Engineering from Indian Institute of Technology, Bombay.
-      <br>
-      <strong> Meeting Link: </strong> <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m3c4e87fc8d72e02beed0c7d58de9d485" target="_blank">WebEx</a>
     </div>
   </div>
 
