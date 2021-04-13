@@ -18,13 +18,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>More Info</th>
     </tr> 
     <tr>
-      <td>Monday, April 12th, 2021 @ 4PM EST</td>
-      <td><strong><a href="https://www.linkedin.com/in/krishnaramkenthapadi" target="_blank">Krishnaram Kenthapadi</a></strong></td>
-      <td><a href="https://aws.amazon.com/ai/" target="_blank">Amazon AWS AI</a></td>
-      <td><strong>Fairness, Explainability, and Privacy in AI/ML Systems</strong></td>
-      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#krishnaram">Link</a></td>
-    </tr>
-    <tr>
       <td>Monday, April 19th, 2021 @ 4PM EST</td>
       <td><strong><a href="https://svivek.com/" target="_blank">Vivek Srikumar</a></strong></td>
       <td><a href="https://www.utah.edu/" target="_blank">U. of Utah</a></td>
