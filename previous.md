@@ -253,10 +253,10 @@ Motivated by progress in machine learning, we design a new algorithmic framework
     </div>
   </div>
   
-       <!-- Krishnaram -->
+  <!-- Krishnaram -->
   <div class="talk" id="krishnaram">
     <div class="speakerInfo"> 
-                <img alt="Stanley Bak" src="{{site.baseurl}}/assets/img/krishnaram.jpg">
+                <img alt="Krishnaram Kenthapadi" src="{{site.baseurl}}/assets/img/krishnaram.jpg">
       <br>
       <a href="https://www.linkedin.com/in/krishnaramkenthapadi" target="_blank">Krishnaram Kenthapadi</a> 
       <br>
