@@ -21,7 +21,7 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td>Monday, April 19th, 2021 @ 4PM EST</td>
       <td><strong><a href="https://svivek.com/" target="_blank">Vivek Srikumar</a></strong></td>
       <td><a href="https://www.utah.edu/" target="_blank">U. of Utah</a></td>
-      <td><strong>TBA</strong></td>
+      <td><strong>Where Neural Networks Fail: The Case for a Little Help from Knowledge</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#vivek">Link</a></td>
     </tr>
   </table>
