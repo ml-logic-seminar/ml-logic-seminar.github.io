@@ -283,7 +283,9 @@ We will first motivate the need for adopting a “fairness, explainability, and 
       <br>
       University of Utah
     </div>
-    <div class="talkInfo"> 
+    <div class="talkInfo">
+     <iframe width="100%" src="https://www.youtube-nocookie.com/embed/espQU-6mIzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <br>
               <strong> Date: </strong> Monday, April 19th, 2021 @ 4PM.
       <br>
 <strong> Talk Title: </strong> Where Neural Networks Fail: The Case for a Little Help from Knowledge
