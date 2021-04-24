@@ -22,8 +22,6 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join
       <br>
       <strong> Bio: </strong> Pedro Domingos is a professor of computer science at the University of Washington and the author of "The Master Algorithm". He is a winner of the SIGKDD Innovation Award and the IJCAI John McCarthy Award, two of the highest honors in data science and AI, and a Fellow of the AAAS and AAAI. His research spans a wide variety of topics in machine learning, artificial intelligence, and data science. He helped start the fields of statistical relational AI, data stream mining, adversarial learning, machine learning for information integration,
 and influence maximization in social networks. 
-      <br>
-      <strong> WebEx: </strong>: <a href="https://uwaterloo.webex.com/uwaterloo/j.php?MTID=m55aa76daf35b43d20adc2bff4c4313ae" target="_blank">Link</a>
     </div>
   </div>
 </div>
