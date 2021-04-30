@@ -297,4 +297,25 @@ In this talk, I will discuss some failures of today's end-to-end trained neural 
       <strong> Bio: </strong> Vivek Srikumar is associate professor in the School of Computing at the University of Utah. His research lies in the areas of natural language processing and machine learning and has been driven by questions arising from the need to reason about textual data with limited explicit supervision and to scale NLP to large problems. His work has been published in various AI, NLP and machine learning venues and has been recognized by paper awards/honorable mention from EMNLP and CoNLL. His work has been supported by awards from the National Science Foundation, and also from Google, Intel and Verisk. He obtained his Ph.D. from the University of Illinois at Urbana-Champaign in 2013 and was a post-doctoral scholar at Stanford University.
     </div>
   </div>
+  
+<!-- Pedro -->
+<div class="talk" id="pedro">
+        <div class="speakerInfo"> 
+            <img alt="Pedro Domingos" src="{{site.baseurl}}/assets/img/pedro.jpg">
+      <br>
+      <a href="https://homes.cs.washington.edu/~pedrod/" target="_blank">Pedro Domingos</a> 
+      <br>
+      University of Washington
+    </div>
+    <div class="talkInfo"> 
+              <strong> Date: </strong> Monday, April 26th, 2021 @ 4PM.
+      <br>
+<strong> Talk Title: </strong> Unifying Logical and Statistical AI with Markov Logic
+     <br>
+      <strong> Abstract: </strong> Intelligent systems must be able to handle the complexity and uncertainty of the real world. Markov logic enables this by unifying first-order logic and probabilistic graphical models into a single representation. Many deep architectures are instances of Markov logic. An extensive suite of learning and inference algorithms for Markov logic has been developed, along with open source implementations like Alchemy. Markov logic has been applied to natural language understanding, information extraction and integration, robotics, social network analysis, computational biology, and many other areas.
+      <br>
+      <strong> Bio: </strong> Pedro Domingos is a professor of computer science at the University of Washington and the author of "The Master Algorithm". He is a winner of the SIGKDD Innovation Award and the IJCAI John McCarthy Award, two of the highest honors in data science and AI, and a Fellow of the AAAS and AAAI. His research spans a wide variety of topics in machine learning, artificial intelligence, and data science. He helped start the fields of statistical relational AI, data stream mining, adversarial learning, machine learning for information integration,
+and influence maximization in social networks. 
+    </div>
+  </div>
 </div>
