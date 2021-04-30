@@ -17,12 +17,12 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <th>Talk Title/Slides</th>
       <th>More Info</th>
     </tr> 
-    <tr>
+<!--     <tr>
       <td>Monday, April 26th, 2021 @ 4PM EST</td>
       <td><strong><a href="https://homes.cs.washington.edu/~pedrod/" target="_blank">Pedro Domingos</a></strong></td>
       <td><a href="https://www.washington.edu/" target="_blank">U. of Washington</a></td>
       <td><strong>Unifying Logical and Statistical AI with Markov Logic</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#pedro">Link</a></td>
-    </tr>
+</tr> -->
   </table>
 </div>
