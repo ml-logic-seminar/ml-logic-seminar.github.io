@@ -24,5 +24,12 @@ Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join){
       <td><strong>Unifying Logical and Statistical AI with Markov Logic</strong></td>
       <td><a href="https://ml-logic-seminar.github.io/upcoming.html#pedro">Link</a></td>
 </tr> -->
+    <tr>
+      <td>Monday, December 13th, 2021 @ 1PM EST</td>
+      <td><strong><a href="https://homes.cs.washington.edu/~pedrod/" target="_blank">Shyan Akmal</a></strong></td>
+      <td><a href="https://web.mit.edu/" target="_blank">Massachusetts Institute of Technology</a></td>
+      <td><strong>Majority-3SAT (and Related Problems) in Polynomial Time</strong></td>
+      <td><a href="https://ml-logic-seminar.github.io/upcoming.html#shyan">Link</a></td>
+    </tr>
   </table>
 </div>

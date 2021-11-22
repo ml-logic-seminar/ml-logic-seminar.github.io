@@ -1,4 +1,8 @@
 <h2 style="text-align:center"> Upcoming Talks </h2>
+Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join 
+){:target="_blank"} in order to receive emails with the link for the talks.
+
+<div class="talks">
     <!-- Shyan -->
   <div class="talk" id="shyan">
     <div class="speakerInfo"> 
@@ -6,7 +10,7 @@
       <br>
       <a href="https://www.shyanakmal.com/" target="_blank">Shyan Akmal</a> 
       <br>
-      <a href="https://web.mit.edu/" target="_blank">MIT</a>
+      <a href="https://web.mit.edu/" target="_blank">Massachusetts Institute of Technology</a>
     </div>
     <div class="talkInfo"> 
       <strong> Date: </strong> Monday, December 13th, 2021 @ 1PM.
@@ -22,9 +26,4 @@
       <strong> Bio: </strong> Shyan Akmal is a PhD student and Siebel scholar studying theoretical computer science at MIT, jointly advised by Virginia Vassilevska Williams and Ryan Williams. He performs research in fine-grained complexity and algorithm design. He is broadly interested in problems with connections to graph theory and combinatorics, and especially enjoys applications of algebraic methods in computer science.
     </div>
   </div>
-
-Join our [group](https://groups.google.com/forum/#!forum/ml_logic_seminar/join 
-){:target="_blank"} in order to receive emails with the link for the talks.
-
-<div class="talks">    
 </div>
