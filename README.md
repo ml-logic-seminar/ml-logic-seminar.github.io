@@ -1,5 +1,6 @@
-<h2 style="text-align:center">Combinations of ML and Logic</h2>
+<h2 style="text-align:center">Solvers, ML, Logic, Complexity</h2>
 This online colloquia is on the following topics and open to anyone who is interested:
+* Theory, Algorithms, and Applications of SAT/SMT Solver
 * Testing, Analysis, Verification, Security and Privacy (TAVSP) of ML systems
 * Combinations of ML and Logic, e.g., NeuroSymbolic AI
 * Use of ML in logic solvers and provers
