@@ -6,3 +6,5 @@
 ### Student Volunteers
 - [Vineel Nagisetty](https://github.com/vin-nag){:target="_blank"}, University of Waterloo
 - [Laura Graves](http://www.lauragraves.ca/){:target="_blank"}, University of Waterloo
+- [Jonathan Chung](https://jonathanchung.xyz/){:target="_blank"}, University of Waterloo
+- Chunxiao Li, University of Waterloo
