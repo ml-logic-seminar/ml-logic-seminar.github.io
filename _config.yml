@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 gem "github-pages", group: :jekyll_plugins
-title: Waterloo ML+Logic Colloquium
+title: Solvers, ML, Logic, and Complexity
 show_downloads: true
